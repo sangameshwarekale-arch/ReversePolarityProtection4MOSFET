@@ -1,0 +1,13 @@
+# Manufacturer inputs rechecked during routing, 2026-10-15
+
+These are design-screen inputs, not an approved order or finished-board inspection.
+
+JLCPCB's current capabilities list multilayer 2 oz trace/space down to 0.15/0.15 mm, 2 oz inner and outer copper options, 1.6 mm board thickness with +/-10% tolerance, and **18 um average** hole plating. A 25 um minimum plating assumption needs a separately agreed process. Their 2 oz component-PTH nominal annulus minimum is0.254 mm; retained0.250 mm rings are a documented conflict. Minimum published inner via-hole to copper is0.20 mm, PTH-hole to copper0.30 mm. Their 2 oz mask-bridge pad-spacing figure is0.20 mm. The U1 copper gap0.195 mm therefore passes this quoted etching minimum but does not establish an individual mask dam. [Official capability page](https://jlcpcb.com/capabilities/pcb-capabilities/).
+
+The supplied local rule restricts0.19 mm minimum to two U1 pads where one isEP7. Default clearance stays0.20 mm, ordinary zones use their larger chosen clearance. It changes no land, net or exclusions. This makes the recommended land a documented process constraint instead of hiding it. [KiCad9 rule syntax and memberOfFootprint](https://docs.kicad.org/9.0/en/pcbnew/pcbnew.html#custom-design-rules).
+
+Fresh official Murata exact-part indexed content confirms GRM188R72A104KA35 C1/C3 thickness0.8+/-0.1 mm (max0.9), and GCM21BR71H105KA03 C2/C4 thickness1.25+/-0.15 mm (max1.4). These are body dimensions, not assembled cavity approval. Direct PDF fetch of the GCM sheet returned403, while the official indexed exact sheet exposes the dimension table; no local PDF was invented. [GRM official product](https://www.murata.com/products/productdetail?partno=GRM188R72A104KA35%23), [GRM official sheet](https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R72A104KA35-01A.pdf), [GCM official sheet](https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM21BR71H105KA03-01A.pdf).
+
+R13 exact Yageo RC0805FR-0710KL sheet lists0.125 W at70 C and thickness0.5+/-0.1 mm, max0.6. Its25.2 V nominal loss63.504 mW is50.8% of that70 C rating; tolerance-low64.145 mW is51.3%. Actual local temperature and manufacturer high-temperature derating still govern. [Official exact-part sheet](https://www.yageogroup.com/component-documentation/download/specsheet/RC0805FR-0710KL).
+
+The four-MOSFET loss and gate-drive conditions remain those in the45A analytical screen. Copper weights, plating and cooling are assumptions until vendor agreement and hardware measurement. No Saturn result or manufacturer45A assembled-PCB approval is claimed.

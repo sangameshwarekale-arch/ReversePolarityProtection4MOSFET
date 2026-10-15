@@ -1,0 +1,11 @@
+{
+  "status": "Schematic annotations updated; electrical nodes exactly unchanged",
+  "schematic_sha256": "63ecd08f4fd3a8126f23c5c5ba8561ea9713e0fb33b691d70a96b9cee0bbe93b",
+  "backup_sha256": "644bd1cd73f379d0950cbdb9dafaf3f91393e16a1ea79157faacd19abb3aca38",
+  "title": "25 V / 60 A target - four MOSFET evaluation",
+  "notes_updated": 4,
+  "electrical_nodes_unchanged": true,
+  "root_uuid_preserved": "5131442b-c222-48f1-9b9f-1a6d48c962a2",
+  "revision": "C",
+  "visual_annotation_corrections": "60A heading,15A/contact note,short revision to avoid title-block clipping"
+}

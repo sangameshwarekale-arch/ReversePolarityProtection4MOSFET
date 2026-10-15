@@ -1,0 +1,815 @@
+{
+  "root_uuid": "5131442b-c222-48f1-9b9f-1a6d48c962a2",
+  "components": {
+    "Q1": {
+      "uuid": "0e427987-94de-4b0f-b74e-21ab6abe0bab",
+      "symbol": "PSMN1R3_80SSF",
+      "pins": {
+        "1": [
+          95.25,
+          54.61
+        ],
+        "5": [
+          100.33,
+          62.23
+        ],
+        "2": [
+          90.17,
+          62.23
+        ],
+        "3": [
+          90.17,
+          62.23
+        ],
+        "4": [
+          90.17,
+          62.23
+        ]
+      },
+      "fp": "Protection:LFPAK88",
+      "value": "PSMN1R3-80SSF",
+      "mpn": "PSMN1R3-80SSFJ",
+      "dnp": false
+    },
+    "R1": {
+      "uuid": "d57316e0-0982-4411-886a-23e4768daf18",
+      "symbol": "R",
+      "pins": {
+        "1": [
+          95.25,
+          45.72
+        ],
+        "2": [
+          95.25,
+          53.34
+        ]
+      },
+      "fp": "Resistor_SMD:R_0603_1608Metric",
+      "value": "10R",
+      "mpn": "RC0603FR-0710RL",
+      "dnp": false
+    },
+    "R2": {
+      "uuid": "ee6fa413-5b28-4f3e-b03e-0636bb35b161",
+      "symbol": "R",
+      "pins": {
+        "1": [
+          113.03,
+          45.72
+        ],
+        "2": [
+          113.03,
+          53.34
+        ]
+      },
+      "fp": "Resistor_SMD:R_0603_1608Metric",
+      "value": "1M",
+      "mpn": "RC0603FR-071ML",
+      "dnp": false
+    },
+    "Q2": {
+      "uuid": "39e124e1-d1fd-4c8e-b6e2-038218dd8d80",
+      "symbol": "PSMN1R3_80SSF",
+      "pins": {
+        "1": [
+          95.25,
+          100.33
+        ],
+        "5": [
+          100.33,
+          107.95
+        ],
+        "2": [
+          90.17,
+          107.95
+        ],
+        "3": [
+          90.17,
+          107.95
+        ],
+        "4": [
+          90.17,
+          107.95
+        ]
+      },
+      "fp": "Protection:LFPAK88",
+      "value": "PSMN1R3-80SSF",
+      "mpn": "PSMN1R3-80SSFJ",
+      "dnp": false
+    },
+    "R3": {
+      "uuid": "5cef81c8-43bb-41cd-a1f1-052f2a3d475e",
+      "symbol": "R",
+      "pins": {
+        "1": [
+          95.25,
+          91.44
+        ],
+        "2": [
+          95.25,
+          99.06
+        ]
+      },
+      "fp": "Resistor_SMD:R_0603_1608Metric",
+      "value": "10R",
+      "mpn": "RC0603FR-0710RL",
+      "dnp": false
+    },
+    "R4": {
+      "uuid": "a0fd67bd-019e-4800-b994-9e5986822717",
+      "symbol": "R",
+      "pins": {
+        "1": [
+          113.03,
+          91.44
+        ],
+        "2": [
+          113.03,
+          99.06
+        ]
+      },
+      "fp": "Resistor_SMD:R_0603_1608Metric",
+      "value": "1M",
+      "mpn": "RC0603FR-071ML",
+      "dnp": false
+    },
+    "Q3": {
+      "uuid": "62b6c39e-43c6-4650-88b3-080f4f43c8be",
+      "symbol": "PSMN2R0_55YLH",
+      "pins": {
+        "4": [
+          270.51,
+          44.45
+        ],
+        "5": [
+          275.59,
+          52.07
+        ],
+        "1": [
+          265.43,
+          52.07
+        ],
+        "2": [
+          265.43,
+          52.07
+        ],
+        "3": [
+          265.43,
+          52.07
+        ]
+      },
+      "fp": "Protection:LFPAK56E",
+      "value": "PSMN2R0-55YLH",
+      "mpn": "PSMN2R0-55YLHX",
+      "dnp": false
+    },
+    "R5": {
+      "uuid": "b3039b62-4151-4dfd-b2c0-8a857de275df",
+      "symbol": "R",
+      "pins": {
+        "1": [
+          270.51,
+          35.56
+        ],
+        "2": [
+          270.51,
+          43.18
+        ]
+      },
+      "fp": "Resistor_SMD:R_0603_1608Metric",
+      "value": "10R",
+      "mpn": "RC0603FR-0710RL",
+      "dnp": false
+    },
+    "R6": {
+      "uuid": "3836bd8e-111c-4dfc-84a8-47db535eb807",
+      "symbol": "R",
+      "pins": {
+        "1": [
+          288.29,
+          35.56
+        ],
+        "2": [
+          288.29,
+          43.18
+        ]
+      },
+      "fp": "Resistor_SMD:R_0603_1608Metric",
+      "value": "1M",
+      "mpn": "RC0603FR-071ML",
+      "dnp": false
+    },
+    "Q4": {
+      "uuid": "034bb833-e049-49a9-b303-26f527d79997",
+      "symbol": "PSMN2R0_55YLH",
+      "pins": {
+        "4": [
+          270.51,
+          90.17
+        ],
+        "5": [
+          275.59,
+          97.79
+        ],
+        "1": [
+          265.43,
+          97.79
+        ],
+        "2": [
+          265.43,
+          97.79
+        ],
+        "3": [
+          265.43,
+          97.79
+        ]
+      },
+      "fp": "Protection:LFPAK56E",
+      "value": "PSMN2R0-55YLH",
+      "mpn": "PSMN2R0-55YLHX",
+      "dnp": false
+    },
+    "R7": {
+      "uuid": "281d98e4-081e-4513-92ac-4f6702f1bdb0",
+      "symbol": "R",
+      "pins": {
+        "1": [
+          270.51,
+          81.28
+        ],
+        "2": [
+          270.51,
+          88.9
+        ]
+      },
+      "fp": "Resistor_SMD:R_0603_1608Metric",
+      "value": "10R",
+      "mpn": "RC0603FR-0710RL",
+      "dnp": false
+    },
+    "R8": {
+      "uuid": "479a788a-a7ce-477f-9b0b-4fc1fba7b04f",
+      "symbol": "R",
+      "pins": {
+        "1": [
+          288.29,
+          81.28
+        ],
+        "2": [
+          288.29,
+          88.9
+        ]
+      },
+      "fp": "Resistor_SMD:R_0603_1608Metric",
+      "value": "1M",
+      "mpn": "RC0603FR-071ML",
+      "dnp": false
+    },
+    "TP9": {
+      "uuid": "fee9cef7-9df4-4e1e-a6ed-65056e2c0389",
+      "symbol": "Tap",
+      "pins": {
+        "1": [
+          25.4,
+          62.23
+        ]
+      },
+      "fp": "OriginalMechanical:WireSolderPad_VPlus_DXF",
+      "value": "BATTERY +",
+      "mpn": "EXISTING TERMINATION - RATING UNKNOWN",
+      "dnp": false
+    },
+    "TP8": {
+      "uuid": "fd6dac70-cfae-4a12-b20f-26c3372ad16b",
+      "symbol": "Tap",
+      "pins": {
+        "1": [
+          25.4,
+          121.92
+        ]
+      },
+      "fp": "OriginalMechanical:WireSolderPad_VMinus_DXF",
+      "value": "BATTERY - / GND",
+      "mpn": "EXISTING TERMINATION - RATING UNKNOWN",
+      "dnp": false
+    },
+    "J3": {
+      "uuid": "a5eae8c6-58cc-41ec-8ba8-bec3fe44935b",
+      "symbol": "Connector4",
+      "pins": {
+        "1": [
+          379.73,
+          52.07
+        ],
+        "2": [
+          379.73,
+          54.61
+        ],
+        "3": [
+          379.73,
+          57.15
+        ],
+        "4": [
+          379.73,
+          59.69
+        ]
+      },
+      "fp": "OriginalMechanical:Connector_1x04_P2.50mm_VPlus_DXF",
+      "value": "V+ OUTPUT / 4 CONTACTS",
+      "mpn": "EXISTING CONNECTOR - RATING UNKNOWN",
+      "dnp": false
+    },
+    "J2": {
+      "uuid": "f92a18fa-06dc-4de0-8bac-6428cf5c3373",
+      "symbol": "Connector4",
+      "pins": {
+        "1": [
+          379.73,
+          102.87
+        ],
+        "2": [
+          379.73,
+          105.41
+        ],
+        "3": [
+          379.73,
+          107.95
+        ],
+        "4": [
+          379.73,
+          110.49
+        ]
+      },
+      "fp": "OriginalMechanical:Connector_1x04_P2.50mm_VMinus_DXF",
+      "value": "V- OUTPUT / 4 CONTACTS",
+      "mpn": "EXISTING CONNECTOR - RATING UNKNOWN",
+      "dnp": false
+    },
+    "U2": {
+      "uuid": "a2f0b61a-e711-44e8-986e-e38bb83016d3",
+      "symbol": "LM74500_Q1",
+      "pins": {
+        "5": [
+          72.39,
+          165.1
+        ],
+        "1": [
+          72.39,
+          170.18
+        ],
+        "4": [
+          97.79,
+          165.1
+        ],
+        "6": [
+          97.79,
+          170.18
+        ],
+        "2": [
+          85.09,
+          182.88
+        ],
+        "3": [
+          77.47,
+          157.48
+        ],
+        "7": [
+          85.09,
+          157.48
+        ],
+        "8": [
+          92.71,
+          157.48
+        ]
+      },
+      "fp": "Protection:TI_DDF8",
+      "value": "LM74500-Q1",
+      "mpn": "LM74500QDDFRQ1",
+      "dnp": false
+    },
+    "U1": {
+      "uuid": "bc48d34b-0f76-4bf7-af64-bb58a32e10fd",
+      "symbol": "NCV68261",
+      "pins": {
+        "6": [
+          186.69,
+          212.09
+        ],
+        "4": [
+          186.69,
+          217.17
+        ],
+        "1": [
+          186.69,
+          222.25
+        ],
+        "2": [
+          212.09,
+          212.09
+        ],
+        "3": [
+          212.09,
+          222.25
+        ],
+        "5": [
+          196.85,
+          229.87
+        ],
+        "7": [
+          201.93,
+          229.87
+        ]
+      },
+      "fp": "Protection:NCV68261_WDFNW6",
+      "value": "NCV68261",
+      "mpn": "NCV68261MTWAITBG",
+      "dnp": false
+    },
+    "R14": {
+      "uuid": "76cb0ce8-5b75-457e-80cf-98b0d58fc73d",
+      "symbol": "R",
+      "pins": {
+        "1": [
+          166.37,
+          222.25
+        ],
+        "2": [
+          173.99,
+          222.25
+        ]
+      },
+      "fp": "Resistor_SMD:R_0603_1608Metric",
+      "value": "10R / S KELVIN",
+      "mpn": "RC0603FR-0710RL",
+      "dnp": false
+    },
+    "C1": {
+      "uuid": "8d24635e-3651-4ece-8e0b-8ddd45a48918",
+      "symbol": "C",
+      "pins": {
+        "1": [
+          39.37,
+          167.64
+        ],
+        "2": [
+          39.37,
+          175.26
+        ]
+      },
+      "fp": "Capacitor_SMD:C_0603_1608Metric",
+      "value": "100n / 100V",
+      "mpn": "GRM188R72A104KA35D",
+      "dnp": false
+    },
+    "C2": {
+      "uuid": "0fece596-a2b0-4564-91a6-aa1994ee4bbd",
+      "symbol": "C",
+      "pins": {
+        "1": [
+          124.46,
+          170.18
+        ],
+        "2": [
+          124.46,
+          177.8
+        ]
+      },
+      "fp": "Capacitor_SMD:C_0805_2012Metric",
+      "value": "1u / 50V X7R",
+      "mpn": "GCM21BR71H105KA03L",
+      "dnp": false
+    },
+    "C3": {
+      "uuid": "5aafe4c2-5b5a-4c34-80c8-742bc584ac60",
+      "symbol": "C",
+      "pins": {
+        "1": [
+          165.1,
+          162.56
+        ],
+        "2": [
+          165.1,
+          170.18
+        ]
+      },
+      "fp": "Capacitor_SMD:C_0603_1608Metric",
+      "value": "100n / 100V",
+      "mpn": "GRM188R72A104KA35D",
+      "dnp": false
+    },
+    "C4": {
+      "uuid": "80ca0b58-2e83-4a2b-a35e-ef352709ef69",
+      "symbol": "C",
+      "pins": {
+        "1": [
+          309.88,
+          212.09
+        ],
+        "2": [
+          309.88,
+          219.71
+        ]
+      },
+      "fp": "Capacitor_SMD:C_0805_2012Metric",
+      "value": "1u / 50V X7R",
+      "mpn": "GCM21BR71H105KA03L",
+      "dnp": false
+    },
+    "C5": {
+      "uuid": "0454bcd0-4e23-476c-ad5f-3fb0adadcf71",
+      "symbol": "C",
+      "pins": {
+        "1": [
+          255.27,
+          214.63
+        ],
+        "2": [
+          255.27,
+          222.25
+        ]
+      },
+      "fp": "Capacitor_SMD:C_0603_1608Metric",
+      "value": "1n / 100V EMC",
+      "mpn": "GCM1885C2A102JA16D",
+      "dnp": true
+    },
+    "R13": {
+      "uuid": "32b280cc-fdac-4a34-9cef-633d786295a7",
+      "symbol": "R",
+      "pins": {
+        "1": [
+          165.1,
+          182.88
+        ],
+        "2": [
+          165.1,
+          190.5
+        ]
+      },
+      "fp": "Resistor_SMD:R_0805_2012Metric",
+      "value": "10k BLEED",
+      "mpn": "RC0805FR-0710KL",
+      "dnp": false
+    },
+    "D1": {
+      "uuid": "1393510c-9808-41e1-91ea-e95dfbd97dbd",
+      "symbol": "Schottky",
+      "pins": {
+        "1": [
+          199.39,
+          170.18
+        ],
+        "2": [
+          199.39,
+          162.56
+        ]
+      },
+      "fp": "Protection:SOD128",
+      "value": "PMEG6030EP",
+      "mpn": "PMEG6030EP,115",
+      "dnp": false
+    },
+    "D2": {
+      "uuid": "3e519d86-a863-4d8f-9429-7410848b73c2",
+      "symbol": "Zener",
+      "pins": {
+        "1": [
+          39.37,
+          226.06
+        ],
+        "2": [
+          39.37,
+          218.44
+        ]
+      },
+      "fp": "Protection:SOD123F",
+      "value": "15V / OPTIONAL",
+      "mpn": "BZT52H-C15,115",
+      "dnp": true
+    },
+    "D3": {
+      "uuid": "12ef518c-7f63-4d76-8e58-cba1df18bdb0",
+      "symbol": "Zener",
+      "pins": {
+        "1": [
+          90.17,
+          226.06
+        ],
+        "2": [
+          90.17,
+          218.44
+        ]
+      },
+      "fp": "Protection:SOD123F",
+      "value": "15V / OPTIONAL",
+      "mpn": "BZT52H-C15,115",
+      "dnp": true
+    },
+    "#FLG01": {
+      "uuid": "86301cae-6978-4aea-8bfe-db3ff221ce6d",
+      "symbol": "PWR_FLAG",
+      "pins": {
+        "1": [
+          20.32,
+          176.53
+        ]
+      },
+      "fp": "",
+      "value": "PWR_FLAG",
+      "mpn": "",
+      "dnp": false
+    },
+    "#FLG02": {
+      "uuid": "bb326d42-51ae-475f-b929-73058be20ba4",
+      "symbol": "PWR_FLAG",
+      "pins": {
+        "1": [
+          149.86,
+          180.34
+        ]
+      },
+      "fp": "",
+      "value": "PWR_FLAG",
+      "mpn": "",
+      "dnp": false
+    },
+    "#FLG03": {
+      "uuid": "3abc4075-233b-4c3f-8ddd-5953192aa824",
+      "symbol": "PWR_FLAG",
+      "pins": {
+        "1": [
+          20.32,
+          187.96
+        ]
+      },
+      "fp": "",
+      "value": "PWR_FLAG",
+      "mpn": "",
+      "dnp": false
+    },
+    "TP1": {
+      "uuid": "69736b4b-f659-4038-bf79-f3105e72833c",
+      "symbol": "Tap",
+      "pins": {
+        "1": [
+          30.48,
+          270.51
+        ]
+      },
+      "fp": "OriginalMechanical:BatteryTap_G_DXF",
+      "value": "RAW G",
+      "mpn": "EXISTING TAP",
+      "dnp": false
+    },
+    "TP2": {
+      "uuid": "c3049db4-f782-46c2-abfb-6b8e48f02042",
+      "symbol": "Tap",
+      "pins": {
+        "1": [
+          54.61,
+          270.51
+        ]
+      },
+      "fp": "OriginalMechanical:BatteryTap_B1_DXF",
+      "value": "RAW B1",
+      "mpn": "EXISTING TAP",
+      "dnp": false
+    },
+    "TP3": {
+      "uuid": "7d61499f-700c-429b-b794-860092945d2f",
+      "symbol": "Tap",
+      "pins": {
+        "1": [
+          80.01,
+          270.51
+        ]
+      },
+      "fp": "OriginalMechanical:BatteryTap_B2_DXF",
+      "value": "RAW B2",
+      "mpn": "EXISTING TAP",
+      "dnp": false
+    },
+    "TP4": {
+      "uuid": "27fbe93f-a4c3-4c9f-a750-c3051e0e2108",
+      "symbol": "Tap",
+      "pins": {
+        "1": [
+          105.41,
+          270.51
+        ]
+      },
+      "fp": "OriginalMechanical:BatteryTap_B3_DXF",
+      "value": "RAW B3",
+      "mpn": "EXISTING TAP",
+      "dnp": false
+    },
+    "TP5": {
+      "uuid": "4e541542-13cc-4115-b60b-f3ad50287f05",
+      "symbol": "Tap",
+      "pins": {
+        "1": [
+          129.54,
+          270.51
+        ]
+      },
+      "fp": "OriginalMechanical:BatteryTap_B4_DXF",
+      "value": "RAW B4",
+      "mpn": "EXISTING TAP",
+      "dnp": false
+    },
+    "TP6": {
+      "uuid": "e146f3d0-0760-4aa1-b2bd-af1542869337",
+      "symbol": "Tap",
+      "pins": {
+        "1": [
+          154.94,
+          270.51
+        ]
+      },
+      "fp": "OriginalMechanical:BatteryTap_B5_DXF",
+      "value": "RAW B5",
+      "mpn": "EXISTING TAP",
+      "dnp": false
+    },
+    "TP7": {
+      "uuid": "5c17dce6-2a66-4ef3-aa3c-4e4ff61c8194",
+      "symbol": "Tap",
+      "pins": {
+        "1": [
+          180.34,
+          270.51
+        ]
+      },
+      "fp": "OriginalMechanical:BatteryTap_B6_DXF",
+      "value": "RAW B6",
+      "mpn": "EXISTING TAP",
+      "dnp": false
+    },
+    "J1": {
+      "uuid": "c4cb9452-84e9-436c-a059-01ef99920fc2",
+      "symbol": "Connector7",
+      "pins": {
+        "1": [
+          245.11,
+          254.0
+        ],
+        "2": [
+          245.11,
+          256.54
+        ],
+        "3": [
+          245.11,
+          259.08
+        ],
+        "4": [
+          245.11,
+          261.62
+        ],
+        "5": [
+          245.11,
+          264.16
+        ],
+        "6": [
+          245.11,
+          266.7
+        ],
+        "7": [
+          245.11,
+          269.24
+        ]
+      },
+      "fp": "OriginalMechanical:Header_1x07_P2.50mm_DXF",
+      "value": "G / B1 / B2 / B3 / B4 / B5 / B6",
+      "mpn": "EXISTING CONNECTOR - RATING UNKNOWN",
+      "dnp": false
+    },
+    "J4": {
+      "uuid": "c1fef0e0-0b5d-4c51-96a0-d138c24702ba",
+      "symbol": "PowerTerminal1",
+      "pins": {
+        "1": [
+          379.73,
+          82.55
+        ]
+      },
+      "fp": "Protection:Wuerth_7466205R_M5_SMT",
+      "value": "VOUT / M5",
+      "mpn": "7466205R",
+      "dnp": false
+    },
+    "J5": {
+      "uuid": "eb74150f-f248-4ac7-acd7-eaf7428ad5bf",
+      "symbol": "PowerTerminal1",
+      "pins": {
+        "1": [
+          379.73,
+          130.81
+        ]
+      },
+      "fp": "Protection:Wuerth_7466205R_M5_SMT",
+      "value": "GND / M5",
+      "mpn": "7466205R",
+      "dnp": false
+    }
+  }
+}

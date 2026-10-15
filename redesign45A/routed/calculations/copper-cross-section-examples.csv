@@ -1,0 +1,15 @@
+section,measured_min_width_mm,assumed_identical_parallel_layers,copper_um_assumed,assumed_current_A,area_mm2,average_J_A_per_mm2,status
+VOUT transverse inner1,3.9808133200602214,2,70,45,0.557313864808431,80.74444732407318,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+VOUT transverse inner2,3.9808133200602214,2,70,45,0.557313864808431,80.74444732407318,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+VOUT upper-bank neck inner1,3.450000000000017,2,70,22.5,0.4830000000000024,46.583850931676785,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+VOUT upper-bank neck inner2,3.450000000000017,2,70,22.5,0.4830000000000024,46.583850931676785,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+VOUT terminal neck inner1,7.5987951267163965,2,70,45,1.0638313177402956,42.29993914409792,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+VOUT terminal neck inner2,7.5987951267163965,2,70,45,1.0638313177402956,42.29993914409792,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+MID upper bridge front,3.299999999999997,1,70,22.5,0.23099999999999982,97.40259740259748,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+MID lower bridge front,2.9573496663900585,1,70,22.5,0.2070144766473041,108.68805102134876,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+GND left return rear,4.129174064057636,1,70,45,0.28904218448403457,155.68661744073418,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+GND left return front,1.6285460532545386,1,70,45,0.11399822372781772,394.742992728045,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+GND left return inner1,2.455259974754199,2,70,45,0.3437363964655879,130.91427169978212,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+GND left return inner2,2.455259974754199,2,70,45,0.3437363964655879,130.91427169978212,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+VIN lower branch front,8.600509849220089,1,70,22.5,0.6020356894454063,37.373199619987545,Conditional cross-section average; current spreading and sharing not solved; not ampacity
+VIN lower branch rear,5.685829778508122,1,70,22.5,0.39800808449556857,56.53151500305898,Conditional cross-section average; current spreading and sharing not solved; not ampacity

@@ -1,0 +1,17 @@
+{
+  "installed_version": "8.47",
+  "installed_path": "C:/Program Files (x86)/Saturn PCB Design/Saturn PCB Toolkit V8.47/PCB Toolkit V8.47.exe",
+  "launch_attempts": "desktop interface and normal Windows configuration-access launch",
+  "processes_running": true,
+  "calculator_window_returned_by_desktop_interface": false,
+  "actual_Saturn_calculation_results_recorded": false,
+  "user_requested_to_bring_window_into_view": true,
+  "user_authorization": "User explicitly granted PC access for this task",
+  "issue": "Saturn running but list_apps/list_windows expose no targetable Saturn window",
+  "actual_saturn_result_available": false,
+  "calculator_inputs_entered": false,
+  "recovery_attempts": "Installed exe/app launch and refreshed inventory; no usable calculator window",
+  "user_need_not_supply_calculator_results": true,
+  "KiCad_manager_reopen_result": "Desktop tool rejected: Computer Use was not approved to use kicad",
+  "native_file_edits_and_CLI_checks_completed": true
+}

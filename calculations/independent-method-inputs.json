@@ -1,0 +1,54 @@
+{
+  "rho20_ohm_m": 1.7241e-08,
+  "copper_temperature_coefficient_per_C": 0.00393,
+  "IPC2221_k_external": 0.048,
+  "IPC2221_k_internal": 0.024,
+  "IPC2221_exponents": {
+    "temperature": 0.44,
+    "area": 0.725
+  },
+  "scope": "comparison/extrapolation; not a fabricated-board rating; not Saturn output",
+  "key_track_cases": [
+    {
+      "method": "Independent IPC-2221 equation; NOT Saturn/IPC-2152",
+      "layer": "external",
+      "current_A": 60,
+      "temperature_rise_C": 20,
+      "copper_um_assumed": 70,
+      "cross_section_mil2": 3033.9568505451816,
+      "width_mm_equation_output": 27.962680024253274,
+      "validated_60A_ampacity": false
+    },
+    {
+      "method": "Independent IPC-2221 equation; NOT Saturn/IPC-2152",
+      "layer": "internal",
+      "current_A": 60,
+      "temperature_rise_C": 20,
+      "copper_um_assumed": 70,
+      "cross_section_mil2": 7892.656226009372,
+      "width_mm_equation_output": 72.74322986817438,
+      "validated_60A_ampacity": false
+    },
+    {
+      "method": "Independent IPC-2221 equation; NOT Saturn/IPC-2152",
+      "layer": "external",
+      "current_A": 60,
+      "temperature_rise_C": 20,
+      "copper_um_assumed": 140,
+      "cross_section_mil2": 3033.9568505451816,
+      "width_mm_equation_output": 13.981340012126637,
+      "validated_60A_ampacity": false
+    },
+    {
+      "method": "Independent IPC-2221 equation; NOT Saturn/IPC-2152",
+      "layer": "internal",
+      "current_A": 60,
+      "temperature_rise_C": 20,
+      "copper_um_assumed": 140,
+      "cross_section_mil2": 7892.656226009372,
+      "width_mm_equation_output": 36.37161493408719,
+      "validated_60A_ampacity": false
+    }
+  ],
+  "Saturn_actual_results_available": false
+}

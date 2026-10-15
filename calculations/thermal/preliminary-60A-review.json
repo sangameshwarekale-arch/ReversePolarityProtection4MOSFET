@@ -1,0 +1,667 @@
+{
+  "status": "PRELIMINARY - NOT PRODUCTION QUALIFIED",
+  "client_date": "2026-10-15",
+  "captured_utc": "2026-10-14T22:38:01.842620+00:00",
+  "scope": "Independent analytical 60A screening of existing 2+2 four-MOSFET parts; no PCB modifications or physical validation.",
+  "current_A_screening_assumption": 60.0,
+  "voltage_V_user_request": 25,
+  "prior_6S_full_charge_V_assumption": 25.2,
+  "continuous_or_peak": "60A continuous assumed conservatively for screening; user duration/duty unknown.",
+  "board_snapshot_path": "C:\\Users\\sanga\\Documents\\Codex\\2026-10-14\\act-as-a-senior-power-electronics\\outputs\\ReversePolarityProtection4MOSFET\\ReversePolarityProtection4MOSFET.kicad_pcb",
+  "board_snapshot_sha256": "7e6f727a33c201fb72aaaaa1594ccaabde2608f28698f632ac196adcf04269a4",
+  "editor_unsaved_state_inspected": false,
+  "component_mpns": {
+    "Q1": "PSMN1R3-80SSFJ",
+    "Q2": "PSMN1R3-80SSFJ",
+    "Q3": "PSMN2R0-55YLHX",
+    "Q4": "PSMN2R0-55YLHX",
+    "U1": "NCV68261MTWAITBG",
+    "U2": "LM74500QDDFRQ1",
+    "D1": "PMEG6030EP,115"
+  },
+  "conduction_cases": [
+    {
+      "case": "25C quoted resistance",
+      "front": {
+        "count": 2,
+        "per_device_rds_mohm": 1.2,
+        "quoted_junction_temperature_C": 25,
+        "assumed_vgs_V": 10.0,
+        "ideal_current_per_device_A": 30.0,
+        "bank_r_mohm": 0.6,
+        "bank_loss_W": 2.16,
+        "device_loss_W": 1.08,
+        "system_gate_enhancement_verified": false,
+        "gate_drive_condition": "At least 10 V must be established at each physical front gate. TI VCAP thresholds do not directly guarantee loaded GATE-to-SOURCE voltage."
+      },
+      "downstream": {
+        "count": 2,
+        "per_device_rds_mohm": 2.4,
+        "quoted_junction_temperature_C": 25,
+        "assumed_vgs_V": 4.5,
+        "ideal_current_per_device_A": 30.0,
+        "bank_r_mohm": 1.2,
+        "bank_loss_W": 4.32,
+        "device_loss_W": 2.16
+      },
+      "total_r_mohm": 1.7999999999999998,
+      "total_voltage_drop_mV": 107.99999999999999,
+      "total_mosfet_loss_W": 6.479999999999999,
+      "loss_fraction_of_25V_60A_input_percent": 0.43199999999999994,
+      "limitation": "Conditional on established front VGS >=10V; quoted-point screening model, not a guaranteed circuit loss bound or predicted thermal equilibrium."
+    },
+    {
+      "case": "mixed hot quoted resistance",
+      "front": {
+        "count": 2,
+        "per_device_rds_mohm": 2.2,
+        "quoted_junction_temperature_C": 105,
+        "assumed_vgs_V": 10.0,
+        "ideal_current_per_device_A": 30.0,
+        "bank_r_mohm": 1.1,
+        "bank_loss_W": 3.9600000000000004,
+        "device_loss_W": 1.9800000000000002,
+        "system_gate_enhancement_verified": false,
+        "gate_drive_condition": "At least 10 V must be established at each physical front gate. TI VCAP thresholds do not directly guarantee loaded GATE-to-SOURCE voltage."
+      },
+      "downstream": {
+        "count": 2,
+        "per_device_rds_mohm": 4.9,
+        "quoted_junction_temperature_C": 150,
+        "assumed_vgs_V": 4.5,
+        "ideal_current_per_device_A": 30.0,
+        "bank_r_mohm": 2.45,
+        "bank_loss_W": 8.82,
+        "device_loss_W": 4.41
+      },
+      "total_r_mohm": 3.5500000000000003,
+      "total_voltage_drop_mV": 213.00000000000003,
+      "total_mosfet_loss_W": 12.780000000000001,
+      "loss_fraction_of_25V_60A_input_percent": 0.8520000000000002,
+      "limitation": "Conditional on established front VGS >=10V; quoted-point screening model, not a guaranteed circuit loss bound or predicted thermal equilibrium."
+    },
+    {
+      "case": "higher-temperature quoted resistance",
+      "front": {
+        "count": 2,
+        "per_device_rds_mohm": 2.8,
+        "quoted_junction_temperature_C": 175,
+        "assumed_vgs_V": 10.0,
+        "ideal_current_per_device_A": 30.0,
+        "bank_r_mohm": 1.4,
+        "bank_loss_W": 5.04,
+        "device_loss_W": 2.52,
+        "system_gate_enhancement_verified": false,
+        "gate_drive_condition": "At least 10 V must be established at each physical front gate. TI VCAP thresholds do not directly guarantee loaded GATE-to-SOURCE voltage."
+      },
+      "downstream": {
+        "count": 2,
+        "per_device_rds_mohm": 4.9,
+        "quoted_junction_temperature_C": 150,
+        "assumed_vgs_V": 4.5,
+        "ideal_current_per_device_A": 30.0,
+        "bank_r_mohm": 2.45,
+        "bank_loss_W": 8.82,
+        "device_loss_W": 4.41
+      },
+      "total_r_mohm": 3.85,
+      "total_voltage_drop_mV": 231.0,
+      "total_mosfet_loss_W": 13.86,
+      "loss_fraction_of_25V_60A_input_percent": 0.924,
+      "limitation": "Conditional on established front VGS >=10V; quoted-point screening model, not a guaranteed circuit loss bound or predicted thermal equilibrium."
+    }
+  ],
+  "six_mosfet_comparison": [
+    {
+      "case": "6MOS 25C comparison",
+      "front": {
+        "count": 2,
+        "per_device_rds_mohm": 1.2,
+        "quoted_junction_temperature_C": 25,
+        "assumed_vgs_V": 10.0,
+        "ideal_current_per_device_A": 30.0,
+        "bank_r_mohm": 0.6,
+        "bank_loss_W": 2.16,
+        "device_loss_W": 1.08,
+        "system_gate_enhancement_verified": false,
+        "gate_drive_condition": "At least 10 V must be established at each physical front gate. TI VCAP thresholds do not directly guarantee loaded GATE-to-SOURCE voltage."
+      },
+      "downstream": {
+        "count": 4,
+        "per_device_rds_mohm": 2.4,
+        "quoted_junction_temperature_C": 25,
+        "assumed_vgs_V": 4.5,
+        "ideal_current_per_device_A": 15.0,
+        "bank_r_mohm": 0.6,
+        "bank_loss_W": 2.16,
+        "device_loss_W": 0.54
+      },
+      "total_r_mohm": 1.2,
+      "total_voltage_drop_mV": 72.0,
+      "total_mosfet_loss_W": 4.32,
+      "loss_fraction_of_25V_60A_input_percent": 0.28800000000000003,
+      "limitation": "Conditional on established front VGS >=10V; quoted-point screening model, not a guaranteed circuit loss bound or predicted thermal equilibrium."
+    },
+    {
+      "case": "6MOS mixed hot comparison",
+      "front": {
+        "count": 2,
+        "per_device_rds_mohm": 2.2,
+        "quoted_junction_temperature_C": 105,
+        "assumed_vgs_V": 10.0,
+        "ideal_current_per_device_A": 30.0,
+        "bank_r_mohm": 1.1,
+        "bank_loss_W": 3.9600000000000004,
+        "device_loss_W": 1.9800000000000002,
+        "system_gate_enhancement_verified": false,
+        "gate_drive_condition": "At least 10 V must be established at each physical front gate. TI VCAP thresholds do not directly guarantee loaded GATE-to-SOURCE voltage."
+      },
+      "downstream": {
+        "count": 4,
+        "per_device_rds_mohm": 4.9,
+        "quoted_junction_temperature_C": 150,
+        "assumed_vgs_V": 4.5,
+        "ideal_current_per_device_A": 15.0,
+        "bank_r_mohm": 1.225,
+        "bank_loss_W": 4.41,
+        "device_loss_W": 1.1025
+      },
+      "total_r_mohm": 2.325,
+      "total_voltage_drop_mV": 139.5,
+      "total_mosfet_loss_W": 8.37,
+      "loss_fraction_of_25V_60A_input_percent": 0.5579999999999999,
+      "limitation": "Conditional on established front VGS >=10V; quoted-point screening model, not a guaranteed circuit loss bound or predicted thermal equilibrium."
+    }
+  ],
+  "thermal_screening": [
+    {
+      "ambient_assumption_C": 25,
+      "target_junction_assumption_C": 125,
+      "resistance_case": "mixed hot quoted resistance",
+      "front_isolated_required_theta_JA_max_C_per_W": 50.5050505050505,
+      "downstream_isolated_required_theta_JA_max_C_per_W": 22.675736961451246,
+      "shared_board_R_theta_budget_upper_bound_C_per_W": 7.824726134585289,
+      "note": "Necessary screening budgets only. Shared-board value leaves no allowance for junction-to-board rise, copper/connectors, or other heat."
+    },
+    {
+      "ambient_assumption_C": 25,
+      "target_junction_assumption_C": 125,
+      "resistance_case": "higher-temperature quoted resistance",
+      "front_isolated_required_theta_JA_max_C_per_W": 39.682539682539684,
+      "downstream_isolated_required_theta_JA_max_C_per_W": 22.675736961451246,
+      "shared_board_R_theta_budget_upper_bound_C_per_W": 7.2150072150072155,
+      "note": "Necessary screening budgets only. Shared-board value leaves no allowance for junction-to-board rise, copper/connectors, or other heat."
+    },
+    {
+      "ambient_assumption_C": 40,
+      "target_junction_assumption_C": 125,
+      "resistance_case": "mixed hot quoted resistance",
+      "front_isolated_required_theta_JA_max_C_per_W": 42.92929292929293,
+      "downstream_isolated_required_theta_JA_max_C_per_W": 19.274376417233558,
+      "shared_board_R_theta_budget_upper_bound_C_per_W": 6.651017214397496,
+      "note": "Necessary screening budgets only. Shared-board value leaves no allowance for junction-to-board rise, copper/connectors, or other heat."
+    },
+    {
+      "ambient_assumption_C": 40,
+      "target_junction_assumption_C": 125,
+      "resistance_case": "higher-temperature quoted resistance",
+      "front_isolated_required_theta_JA_max_C_per_W": 33.73015873015873,
+      "downstream_isolated_required_theta_JA_max_C_per_W": 19.274376417233558,
+      "shared_board_R_theta_budget_upper_bound_C_per_W": 6.132756132756133,
+      "note": "Necessary screening budgets only. Shared-board value leaves no allowance for junction-to-board rise, copper/connectors, or other heat."
+    },
+    {
+      "ambient_assumption_C": 60,
+      "target_junction_assumption_C": 125,
+      "resistance_case": "mixed hot quoted resistance",
+      "front_isolated_required_theta_JA_max_C_per_W": 32.82828282828282,
+      "downstream_isolated_required_theta_JA_max_C_per_W": 14.73922902494331,
+      "shared_board_R_theta_budget_upper_bound_C_per_W": 5.086071987480437,
+      "note": "Necessary screening budgets only. Shared-board value leaves no allowance for junction-to-board rise, copper/connectors, or other heat."
+    },
+    {
+      "ambient_assumption_C": 60,
+      "target_junction_assumption_C": 125,
+      "resistance_case": "higher-temperature quoted resistance",
+      "front_isolated_required_theta_JA_max_C_per_W": 25.793650793650794,
+      "downstream_isolated_required_theta_JA_max_C_per_W": 14.73922902494331,
+      "shared_board_R_theta_budget_upper_bound_C_per_W": 4.68975468975469,
+      "note": "Necessary screening budgets only. Shared-board value leaves no allowance for junction-to-board rise, copper/connectors, or other heat."
+    }
+  ],
+  "fixed_connector_pad_snapshot": [
+    {
+      "reference": "TP8",
+      "pad": "1",
+      "pad_size_mm": [
+        2.5,
+        2.5
+      ],
+      "drill_mm": [
+        2.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:WireSolderPad_VMinus_DXF"
+    },
+    {
+      "reference": "TP9",
+      "pad": "1",
+      "pad_size_mm": [
+        2.5,
+        2.5
+      ],
+      "drill_mm": [
+        2.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:WireSolderPad_VPlus_DXF"
+    },
+    {
+      "reference": "J3",
+      "pad": "1",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VPlus_DXF"
+    },
+    {
+      "reference": "J3",
+      "pad": "2",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VPlus_DXF"
+    },
+    {
+      "reference": "J3",
+      "pad": "3",
+      "pad_size_mm": [
+        1.499975,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VPlus_DXF"
+    },
+    {
+      "reference": "J3",
+      "pad": "4",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VPlus_DXF"
+    },
+    {
+      "reference": "J2",
+      "pad": "1",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VMinus_DXF"
+    },
+    {
+      "reference": "J2",
+      "pad": "2",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VMinus_DXF"
+    },
+    {
+      "reference": "J2",
+      "pad": "3",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VMinus_DXF"
+    },
+    {
+      "reference": "J2",
+      "pad": "4",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VMinus_DXF"
+    },
+    {
+      "reference": "J1",
+      "pad": "1",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Header_1x07_P2.50mm_DXF"
+    },
+    {
+      "reference": "J1",
+      "pad": "2",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Header_1x07_P2.50mm_DXF"
+    },
+    {
+      "reference": "J1",
+      "pad": "3",
+      "pad_size_mm": [
+        1.499975,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Header_1x07_P2.50mm_DXF"
+    },
+    {
+      "reference": "J1",
+      "pad": "4",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Header_1x07_P2.50mm_DXF"
+    },
+    {
+      "reference": "J1",
+      "pad": "5",
+      "pad_size_mm": [
+        1.499975,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Header_1x07_P2.50mm_DXF"
+    },
+    {
+      "reference": "J1",
+      "pad": "6",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Header_1x07_P2.50mm_DXF"
+    },
+    {
+      "reference": "J1",
+      "pad": "7",
+      "pad_size_mm": [
+        1.5,
+        1.5
+      ],
+      "drill_mm": [
+        1.0
+      ],
+      "pad_type": "thru_hole",
+      "footprint": "OriginalMechanical:Header_1x07_P2.50mm_DXF"
+    }
+  ],
+  "contact_resistance_hypothetical_examples": [
+    {
+      "assumed_per_contact_resistance_mohm": 1,
+      "parallel_contacts_per_rail": 4,
+      "current_per_contact_A": 15,
+      "loss_per_contact_W": 0.225,
+      "loss_per_four_contact_rail_W": 0.9,
+      "both_output_rails_contact_loss_W": 1.8,
+      "note": "Hypothetical resistance examples, not specifications of the unidentified connector."
+    },
+    {
+      "assumed_per_contact_resistance_mohm": 3,
+      "parallel_contacts_per_rail": 4,
+      "current_per_contact_A": 15,
+      "loss_per_contact_W": 0.675,
+      "loss_per_four_contact_rail_W": 2.7,
+      "both_output_rails_contact_loss_W": 5.4,
+      "note": "Hypothetical resistance examples, not specifications of the unidentified connector."
+    },
+    {
+      "assumed_per_contact_resistance_mohm": 5,
+      "parallel_contacts_per_rail": 4,
+      "current_per_contact_A": 15,
+      "loss_per_contact_W": 1.125,
+      "loss_per_four_contact_rail_W": 4.5,
+      "both_output_rails_contact_loss_W": 9.0,
+      "note": "Hypothetical resistance examples, not specifications of the unidentified connector."
+    },
+    {
+      "assumed_per_contact_resistance_mohm": 10,
+      "parallel_contacts_per_rail": 4,
+      "current_per_contact_A": 15,
+      "loss_per_contact_W": 2.25,
+      "loss_per_four_contact_rail_W": 9.0,
+      "both_output_rails_contact_loss_W": 18.0,
+      "note": "Hypothetical resistance examples, not specifications of the unidentified connector."
+    }
+  ],
+  "barrel_only_hypothetical_examples": [
+    {
+      "finished_hole_mm_assumption": 1.0,
+      "barrel_current_A_assumption": 15.0,
+      "board_thickness_mm_assumption": 1.6,
+      "plating_um_assumption": 25,
+      "copper_resistivity_20C_ohm_m_assumption": 1.7241e-08,
+      "copper_area_mm2": 0.08050331174823834,
+      "barrel_resistance_20C_mohm": 0.34266416375850095,
+      "barrel_loss_20C_W": 0.07709943684566271,
+      "limitation": "Ohmic barrel-only estimate; not IPC/Saturn ampacity, not temperature-rise calculation, and not solder/lead/contact resistance. Actual current may use a soldered lead and several layers/vias."
+    },
+    {
+      "finished_hole_mm_assumption": 2.0,
+      "barrel_current_A_assumption": 60.0,
+      "board_thickness_mm_assumption": 1.6,
+      "plating_um_assumption": 25,
+      "copper_resistivity_20C_ohm_m_assumption": 1.7241e-08,
+      "copper_area_mm2": 0.15904312808798407,
+      "barrel_resistance_20C_mohm": 0.17344729276664753,
+      "barrel_loss_20C_W": 0.6244102539599311,
+      "limitation": "Ohmic barrel-only estimate; not IPC/Saturn ampacity, not temperature-rise calculation, and not solder/lead/contact resistance. Actual current may use a soldered lead and several layers/vias."
+    }
+  ],
+  "balance_netlist_nodes": [
+    {
+      "net": "unconnected-(J1-Pin_1-Pad1)",
+      "ref": "J1",
+      "pin": "1",
+      "pinfunction": "Pin_1",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(J1-Pin_2-Pad2)",
+      "ref": "J1",
+      "pin": "2",
+      "pinfunction": "Pin_2",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(J1-Pin_3-Pad3)",
+      "ref": "J1",
+      "pin": "3",
+      "pinfunction": "Pin_3",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(J1-Pin_4-Pad4)",
+      "ref": "J1",
+      "pin": "4",
+      "pinfunction": "Pin_4",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(J1-Pin_5-Pad5)",
+      "ref": "J1",
+      "pin": "5",
+      "pinfunction": "Pin_5",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(J1-Pin_6-Pad6)",
+      "ref": "J1",
+      "pin": "6",
+      "pinfunction": "Pin_6",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(J1-Pin_7-Pad7)",
+      "ref": "J1",
+      "pin": "7",
+      "pinfunction": "Pin_7",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(TP1-Pad1)",
+      "ref": "TP1",
+      "pin": "1",
+      "pinfunction": "1",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(TP2-Pad1)",
+      "ref": "TP2",
+      "pin": "1",
+      "pinfunction": "1",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(TP3-Pad1)",
+      "ref": "TP3",
+      "pin": "1",
+      "pinfunction": "1",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(TP4-Pad1)",
+      "ref": "TP4",
+      "pin": "1",
+      "pinfunction": "1",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(TP5-Pad1)",
+      "ref": "TP5",
+      "pin": "1",
+      "pinfunction": "1",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(TP6-Pad1)",
+      "ref": "TP6",
+      "pin": "1",
+      "pinfunction": "1",
+      "pintype": "passive+no_connect"
+    },
+    {
+      "net": "unconnected-(TP7-Pad1)",
+      "ref": "TP7",
+      "pin": "1",
+      "pinfunction": "1",
+      "pintype": "passive+no_connect"
+    }
+  ],
+  "copper_fabrication_assumptions_unknown": [
+    "finished copper per layer",
+    "minimum barrel plating",
+    "board thickness and stackup",
+    "via geometry and count",
+    "solder fill/lead current distribution"
+  ],
+  "release_decision": "Existing four-MOSFET design is not established suitable for 60A continuous. Retaining parts requires demonstrated adequate cooling, rated terminations, fault protection, and defined balance protection. Otherwise device/package/cooling/termination changes are required.",
+  "saturn_results_in_this_report": false,
+  "hardware_tests_performed": false,
+  "sources": [
+    {
+      "title": "Nexperia PSMN1R3-80SSF, 7 April 2025, Table7/Table6",
+      "url": "https://assets.nexperia.com/documents/data-sheet/PSMN1R3-80SSF.pdf"
+    },
+    {
+      "title": "Nexperia PSMN2R0-55YLH, 11 July 2022, Table7/Table6",
+      "url": "https://assets.nexperia.com/documents/data-sheet/PSMN2R0-55YLH.pdf"
+    },
+    {
+      "title": "onsemi NCV68261 Rev1, May2022, Tables2/7 and thermal considerations",
+      "url": "https://www.onsemi.com/pdf/datasheet/ncv68261-d.pdf"
+    },
+    {
+      "title": "TI LM74500-Q1, SNOSDB7, startup/capacitor/short-circuit recommendations",
+      "url": "https://www.ti.com/lit/ds/symlink/lm74500-q1.pdf"
+    },
+    {
+      "title": "TI SLVA959B, motor-driver PCB layout/via considerations",
+      "url": "https://www.ti.com/lit/pdf/slva959"
+    },
+    {
+      "title": "Copper Development Association electrical conductivity design guide",
+      "url": "https://copper.org/applications/industrial/DesignGuide/props/electrical.php"
+    }
+  ],
+  "front_gate_drive_qualification": {
+    "fully_charged_gate_to_source_explicit_guaranteed_minimum_V": null,
+    "resistance_table_required_gate_voltage_V": 10,
+    "physical_gate_minimum_verified": false,
+    "vcap_minus_source_minimum_V_at_source_3_2V": 8,
+    "vcap_test_point_load_limit_uA": 30,
+    "vcap_turn_on_threshold_minimum_V": 10.3,
+    "vcap_turn_off_threshold_minimum_V": 11,
+    "distinction": "VCAP thresholds and low-supply VCAP test point are not an explicit loaded GATE pin minimum.",
+    "normal_6S_supply": "Adequate drive is expected but not established over the full intended envelope.",
+    "source_table": "TI LM74500-Q1 SNOSDB7 Table6.5, PDF page5, locally rendered for column verification.",
+    "local_pdf_path": "C:\\Users\\sanga\\Documents\\Codex\\2026-10-14\\act-as-a-senior-power-electronics\\work\\datasheets\\lm74500-q1.pdf",
+    "local_pdf_sha256": "9468bb5e0c1fa97ba0bcefaaccf6439ac2e2335f0931259294c3456018148c15"
+  }
+}

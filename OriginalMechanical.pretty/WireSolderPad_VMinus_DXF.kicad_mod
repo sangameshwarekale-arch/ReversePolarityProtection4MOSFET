@@ -1,0 +1,116 @@
+(footprint "WireSolderPad_VMinus_DXF"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Custom pad pattern reconstructed from the supplied DXF; connector model unspecified")
+	(property "Reference" "TP8"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "1824a1b9-8014-4558-9e80-b3673129032d")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "V- solder pad"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "91bcb120-7da1-40fd-b5d1-1f574ce28601")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bcdd97d5-4862-4684-950f-c27ad1a3a03e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f9d165a-cafe-465a-9e11-526c19b6faad")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.663957 -1.815088)
+		(end 1.638049 -1.815088)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e64544d5-efcd-47c4-8057-4b07b8e21e9e")
+	)
+	(fp_line
+		(start -1.663957 1.613919)
+		(end -1.663957 -1.815088)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b9c4c98f-a45b-4419-a188-fbda43d96b1f")
+	)
+	(fp_line
+		(start 1.638049 -1.815088)
+		(end 1.638049 1.613919)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aacca546-354f-4906-a2bf-b9fee89fa4b7")
+	)
+	(fp_line
+		(start 1.638049 1.613919)
+		(end -1.663957 1.613919)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b11cc611-45b3-4c0b-8205-66953364fd08")
+	)
+	(fp_rect
+		(start -1.25 -1.25)
+		(end 1.25 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "7a7beed6-a127-412e-ba09-6f5a9fcdbc0f")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.5 2.5)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.03)
+		(uuid "47476d5e-ff8a-409a-aabc-461045fc6741")
+	)
+	(embedded_fonts no)
+)

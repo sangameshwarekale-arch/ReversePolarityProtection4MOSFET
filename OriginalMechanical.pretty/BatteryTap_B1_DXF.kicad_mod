@@ -1,0 +1,76 @@
+(footprint "BatteryTap_B1_DXF"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Custom pad pattern reconstructed from the supplied DXF; connector model unspecified")
+	(property "Reference" "TP2"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "5cf27253-8684-41dd-accf-4036ce64d045")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "B1"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "16d5b325-e586-46f0-9330-e45f2d0aea14")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "10845b2b-6af3-49f6-92bb-8cd4ea0d26c4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "27a03ab8-38e1-4946-bc72-579c4eec378e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -0.75 -0.75)
+		(end 0.75 0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e89c72a7-7c7b-4059-b72a-f1c3457e1eb2")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.03)
+		(uuid "7d094f81-3cd0-4a46-ae69-98e16b2061c1")
+	)
+	(embedded_fonts no)
+)

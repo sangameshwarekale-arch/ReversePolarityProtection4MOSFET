@@ -1,0 +1,7 @@
+current_per_conductor_A,layer,copper_um_assumed,deltaT_C_assumed,formula_width_mm,within_published_formula_domain,status
+22.5,External,70,10,11.008541410917502,False,Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release
+22.5,External,70,20,7.228292428655778,True,Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release
+22.5,External,70,40,4.746152054471661,True,Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release
+11.25,Internal,70,10,11.008541410917502,False,Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release
+11.25,Internal,70,20,7.228292428655778,True,Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release
+11.25,Internal,70,40,4.746152054471661,True,Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release

@@ -1,0 +1,214 @@
+{
+  "status": "PASS: connectivity, preservation and configured geometry checks only",
+  "not_qualified_at_45A": true,
+  "not_for_fabrication": true,
+  "KiCad_version": "9.0.7",
+  "checks": {
+    "all36_existing_refs_values_UUIDs_footprint_IDs_paths_numbered_and_paste_pad_geometry_nets_retained": true,
+    "all38_approved_positions_sides_angles_retained": true,
+    "all12_fixed_mechanical_footprints_and_pad_centres_retained": true,
+    "all60_outline_primitives_identical": true,
+    "original_schematic_symbol_nodes_preserved": true,
+    "original_schematic_wire_nodes_preserved": true,
+    "original_schematic_label_nodes_preserved": true,
+    "original_schematic_junction_nodes_preserved": true,
+    "original_schematic_no_connect_nodes_preserved": true,
+    "all95_original_exported_pin_net_nodes_retained": true,
+    "only_added_pin_net_nodes_J4_VOUT_and_J5_GND": true,
+    "local_footprint_libraries_resolve_natively": true,
+    "ERC_zero_violations": true,
+    "DRC_zero_errors": true,
+    "DRC_zero_unconnected_and_schematic_parity": true,
+    "only12_original_missing_courtyard_warnings": true,
+    "no_DRC_exclusions_or_ignored_rule_categories": true,
+    "100_vias_195_tracks_14_filled_zones": true,
+    "all77_original_backup_files_unchanged": true,
+    "Desktop_source_still_matches_intake": true
+  },
+  "native_files_sha256": {
+    "ReversePolarityProtection4MOSFET.kicad_pcb": "d9d767b73b893075765ee96c29f615489bf9542d6ee8c5c04e9a89d5050432fd",
+    "ReversePolarityProtection4MOSFET.kicad_sch": "dd4d6f2455114ea99eef00f0bafc8bbe994a544ee0eb3a76b094f4f7d6399e58",
+    "ReversePolarityProtection4MOSFET.kicad_pro": "7600d4193ebb896670f7929fe95ce4a4020c66917cbf219442b3252fbb0541a0",
+    "ReversePolarityProtection4MOSFET.kicad_dru": "15504d16378e24dd213fd701408078815d4b76c838f310bb82a98a5c335d3661"
+  },
+  "counts": {
+    "footprints": 38,
+    "rear_footprints": 18,
+    "tracks": 195,
+    "vias": 100,
+    "filled_zones": 14,
+    "outline_primitives": 60,
+    "old_pin_net_nodes": 95,
+    "new_pin_net_nodes": 97
+  },
+  "native_reports": {
+    "ERC_violations": 0,
+    "DRC_errors": 0,
+    "DRC_warnings": 12,
+    "DRC_warning_types": {
+      "missing_courtyard": 12
+    },
+    "unconnected": 0,
+    "parity": 0,
+    "DRC_date": "2026-10-15T18:03:32+0530",
+    "ERC_date": "2026-10-15T16:03:27+0530"
+  },
+  "library_resolution": [
+    {
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:BatteryTap_B1_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:BatteryTap_B2_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:BatteryTap_B3_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:BatteryTap_B4_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:BatteryTap_B5_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:BatteryTap_B6_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:BatteryTap_G_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VMinus_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VPlus_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:Header_1x07_P2.50mm_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:WireSolderPad_VMinus_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "OriginalMechanical:WireSolderPad_VPlus_DXF",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "Protection:LFPAK56E",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "Protection:LFPAK88",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "Protection:NCV68261_WDFNW6",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "Protection:SOD123F",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "Protection:SOD128",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "Protection:TI_DDF8",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "Protection:Wuerth_7466205R_M5_SMT",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    },
+    {
+      "footprint": "Resistor_SMD:R_0805_2012Metric",
+      "project_relative": true,
+      "exists": true,
+      "native_loadable": true
+    }
+  ],
+  "allowed_changes": [
+    "Placement and side changes approved earlier; no further component movement during routing",
+    "New J4/J5 passive terminals only",
+    "Tracks, through vias, copper zones and pad-to-zone thermal overrides for low-current supports",
+    "Explicit provisional 4x70um nominal copper stack and ENIG finish",
+    "U1-only intrinsic EP pad-pair clearance0.19mm; global absolute0.19/default0.20",
+    "Supported0.25mm minimum drill; one0.55/0.25 filled and capped MID via requiring process approval",
+    "Five inherited ignored warning categories enabled; no ignored rules or exclusions",
+    "Status/title/date/revision and manufacturing-process annotations only"
+  ],
+  "limitations": [
+    "The12 unknown original terminations have no verified physical courtyards or manufacturer current ratings",
+    "Terminal paste stencil absent; assembler process and torque/cable support unresolved",
+    "One via-in-pad requires epoxy filling and copper capping both sides",
+    "Copper/plating/current-sharing/thermal environment remain unqualified",
+    "Balance connector paths are intentionally open; balance reverse-polarity protection is not implemented",
+    "No Gerbers/drills released; no electrical hardware testing or actual Saturn results"
+  ]
+}

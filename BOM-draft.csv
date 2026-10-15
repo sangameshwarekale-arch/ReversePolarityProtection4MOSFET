@@ -1,0 +1,39 @@
+﻿Reference,Value,Manufacturer part number,Footprint,Population,Datasheet
+Q1,PSMN1R3-80SSF,PSMN1R3-80SSFJ,Protection:LFPAK88,Fit,https://assets.nexperia.com/documents/data-sheet/PSMN1R3-80SSF.pdf
+R1,10R,RC0603FR-0710RL,Resistor_SMD:R_0603_1608Metric,Fit,~
+R2,1M,RC0603FR-071ML,Resistor_SMD:R_0603_1608Metric,Fit,~
+Q2,PSMN1R3-80SSF,PSMN1R3-80SSFJ,Protection:LFPAK88,Fit,https://assets.nexperia.com/documents/data-sheet/PSMN1R3-80SSF.pdf
+R3,10R,RC0603FR-0710RL,Resistor_SMD:R_0603_1608Metric,Fit,~
+R4,1M,RC0603FR-071ML,Resistor_SMD:R_0603_1608Metric,Fit,~
+Q3,PSMN2R0-55YLH,PSMN2R0-55YLHX,Protection:LFPAK56E,Fit,https://assets.nexperia.com/documents/data-sheet/PSMN2R0-55YLH.pdf
+R5,10R,RC0603FR-0710RL,Resistor_SMD:R_0603_1608Metric,Fit,~
+R6,1M,RC0603FR-071ML,Resistor_SMD:R_0603_1608Metric,Fit,~
+Q4,PSMN2R0-55YLH,PSMN2R0-55YLHX,Protection:LFPAK56E,Fit,https://assets.nexperia.com/documents/data-sheet/PSMN2R0-55YLH.pdf
+R7,10R,RC0603FR-0710RL,Resistor_SMD:R_0603_1608Metric,Fit,~
+R8,1M,RC0603FR-071ML,Resistor_SMD:R_0603_1608Metric,Fit,~
+TP9,BATTERY +,EXISTING TERMINATION - RATING UNKNOWN,OriginalMechanical:WireSolderPad_VPlus_DXF,Fit,~
+TP8,BATTERY - / GND,EXISTING TERMINATION - RATING UNKNOWN,OriginalMechanical:WireSolderPad_VMinus_DXF,Fit,~
+J3,V+ OUTPUT / 4 CONTACTS,EXISTING CONNECTOR - RATING UNKNOWN,OriginalMechanical:Connector_1x04_P2.50mm_VPlus_DXF,Fit,~
+J2,V- OUTPUT / 4 CONTACTS,EXISTING CONNECTOR - RATING UNKNOWN,OriginalMechanical:Connector_1x04_P2.50mm_VMinus_DXF,Fit,~
+U2,LM74500-Q1,LM74500QDDFRQ1,Protection:TI_DDF8,Fit,https://www.ti.com/lit/ds/symlink/lm74500-q1.pdf
+U1,NCV68261,NCV68261MTWAITBG,Protection:NCV68261_WDFNW6,Fit,https://www.onsemi.com/pdf/datasheet/ncv68261-d.pdf
+R14,10R / S KELVIN,RC0603FR-0710RL,Resistor_SMD:R_0603_1608Metric,Fit,~
+C1,100n / 100V,GRM188R72A104KA35D,Capacitor_SMD:C_0603_1608Metric,Fit,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R72A104KA35-01A.pdf
+C2,1u / 50V X7R,GCM21BR71H105KA03L,Capacitor_SMD:C_0805_2012Metric,Fit,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM21BR71H105KA03-01A.pdf
+C3,100n / 100V,GRM188R72A104KA35D,Capacitor_SMD:C_0603_1608Metric,Fit,~
+C4,1u / 50V X7R,GCM21BR71H105KA03L,Capacitor_SMD:C_0805_2012Metric,Fit,~
+C5,1n / 100V EMC,GCM1885C2A102JA16D,Capacitor_SMD:C_0603_1608Metric,DNP,~
+R13,10k BLEED,RC0805FR-0710KL,Resistor_SMD:R_0805_2012Metric,Fit,~
+D1,PMEG6030EP,"PMEG6030EP,115",Protection:SOD128,Fit,https://assets.nexperia.com/documents/data-sheet/PMEG6030EP.pdf
+D2,15V / OPTIONAL,"BZT52H-C15,115",Protection:SOD123F,DNP,https://assets.nexperia.com/documents/data-sheet/BZT52H_SER.pdf
+D3,15V / OPTIONAL,"BZT52H-C15,115",Protection:SOD123F,DNP,https://assets.nexperia.com/documents/data-sheet/BZT52H_SER.pdf
+TP1,RAW G,EXISTING TAP,OriginalMechanical:BatteryTap_G_DXF,Fit,~
+TP2,RAW B1,EXISTING TAP,OriginalMechanical:BatteryTap_B1_DXF,Fit,~
+TP3,RAW B2,EXISTING TAP,OriginalMechanical:BatteryTap_B2_DXF,Fit,~
+TP4,RAW B3,EXISTING TAP,OriginalMechanical:BatteryTap_B3_DXF,Fit,~
+TP5,RAW B4,EXISTING TAP,OriginalMechanical:BatteryTap_B4_DXF,Fit,~
+TP6,RAW B5,EXISTING TAP,OriginalMechanical:BatteryTap_B5_DXF,Fit,~
+TP7,RAW B6,EXISTING TAP,OriginalMechanical:BatteryTap_B6_DXF,Fit,~
+J1,G / B1 / B2 / B3 / B4 / B5 / B6,EXISTING CONNECTOR - RATING UNKNOWN,OriginalMechanical:Header_1x07_P2.50mm_DXF,Fit,~
+J4,VOUT / M5,7466205R,Protection:Wuerth_7466205R_M5_SMT,Candidate fit; thermal/mechanical/stencil qualification pending,https://www.we-online.com/components/products/datasheet/7466205R.pdf
+J5,GND / M5,7466205R,Protection:Wuerth_7466205R_M5_SMT,Candidate fit; thermal/mechanical/stencil qualification pending,https://www.we-online.com/components/products/datasheet/7466205R.pdf

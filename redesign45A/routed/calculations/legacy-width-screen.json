@@ -1,0 +1,61 @@
+{
+  "formula": "I=k*dT^0.44*(Wmil*Hmil)^0.725",
+  "official_source": "https://docs.kicad.org/5.1/en/pcb_calculator/pcb_calculator.pdf",
+  "limitations": "Published domain <=35A external,<=17.5A internal,width<=10mm,dT<=100C. Do not extrapolate to45A or22.5A per internal plane. Not IPC2152 or board thermal analysis.",
+  "rows": [
+    {
+      "current_per_conductor_A": 22.5,
+      "layer": "External",
+      "copper_um_assumed": 70,
+      "deltaT_C_assumed": 10,
+      "formula_width_mm": 11.008541410917502,
+      "within_published_formula_domain": false,
+      "status": "Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release"
+    },
+    {
+      "current_per_conductor_A": 22.5,
+      "layer": "External",
+      "copper_um_assumed": 70,
+      "deltaT_C_assumed": 20,
+      "formula_width_mm": 7.228292428655778,
+      "within_published_formula_domain": true,
+      "status": "Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release"
+    },
+    {
+      "current_per_conductor_A": 22.5,
+      "layer": "External",
+      "copper_um_assumed": 70,
+      "deltaT_C_assumed": 40,
+      "formula_width_mm": 4.746152054471661,
+      "within_published_formula_domain": true,
+      "status": "Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release"
+    },
+    {
+      "current_per_conductor_A": 11.25,
+      "layer": "Internal",
+      "copper_um_assumed": 70,
+      "deltaT_C_assumed": 10,
+      "formula_width_mm": 11.008541410917502,
+      "within_published_formula_domain": false,
+      "status": "Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release"
+    },
+    {
+      "current_per_conductor_A": 11.25,
+      "layer": "Internal",
+      "copper_um_assumed": 70,
+      "deltaT_C_assumed": 20,
+      "formula_width_mm": 7.228292428655778,
+      "within_published_formula_domain": true,
+      "status": "Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release"
+    },
+    {
+      "current_per_conductor_A": 11.25,
+      "layer": "Internal",
+      "copper_um_assumed": 70,
+      "deltaT_C_assumed": 40,
+      "formula_width_mm": 4.746152054471661,
+      "within_published_formula_domain": true,
+      "status": "Independent arithmetic using legacy IPC2221 fit documented by KiCad; NOT Saturn; not valid for this coupled multilayer board thermal release"
+    }
+  ]
+}

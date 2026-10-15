@@ -1,0 +1,167 @@
+{
+  "DXF_source": "C:\\Users\\sanga\\Downloads\\battery-pcb (3).dxf",
+  "DXF_sha256": "d188c32c0ad89ea83bbbaa86f76326fb693a87f1fa55b4efa4f02ee1dd4463d8",
+  "DXF_units": "millimetres (INSUNITS4)",
+  "DXF_centerline_outline_width_height_mm": [
+    44.519982474054586,
+    41.50601343278993
+  ],
+  "DXF_rendered_outline_bounds_mm": [
+    44.51998247405544,
+    41.63298828673959
+  ],
+  "DXF_polyline_outline_stroke_width_mm": 0.254000508,
+  "transform_to_existing_KiCad": {
+    "x_add_mm": 74.39891134620265,
+    "y_equals_mm_minus_DXF_y": 121.11807265608331
+  },
+  "pad_match_count": 24,
+  "max_pad_center_error_mm": 8.780797173812971e-07,
+  "matches": [
+    {
+      "dxf_handle": "43a",
+      "reference": "J2",
+      "pad": "1",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "443",
+      "reference": "J2",
+      "pad": "2",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "44c",
+      "reference": "J2",
+      "pad": "3",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "455",
+      "reference": "J2",
+      "pad": "4",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "45e",
+      "reference": "J1",
+      "pad": "1",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "467",
+      "reference": "J1",
+      "pad": "2",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "470",
+      "reference": "J1",
+      "pad": "3",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "479",
+      "reference": "J1",
+      "pad": "4",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "482",
+      "reference": "J1",
+      "pad": "5",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "48b",
+      "reference": "J1",
+      "pad": "6",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "494",
+      "reference": "J1",
+      "pad": "7",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "49d",
+      "reference": "J3",
+      "pad": "1",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "4a6",
+      "reference": "J3",
+      "pad": "2",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "4af",
+      "reference": "J3",
+      "pad": "3",
+      "error_mm": 0.0
+    },
+    {
+      "dxf_handle": "4b8",
+      "reference": "J3",
+      "pad": "4",
+      "error_mm": 2.2737367544323206e-13
+    },
+    {
+      "dxf_handle": "4c1",
+      "reference": "TP1",
+      "pad": "1",
+      "error_mm": 8.780797173812971e-07
+    },
+    {
+      "dxf_handle": "4ca",
+      "reference": "TP2",
+      "pad": "1",
+      "error_mm": 7.763093225276342e-07
+    },
+    {
+      "dxf_handle": "4d3",
+      "reference": "TP3",
+      "pad": "1",
+      "error_mm": 8.246949296104501e-07
+    },
+    {
+      "dxf_handle": "4dc",
+      "reference": "TP4",
+      "pad": "1",
+      "error_mm": 5.647262082025082e-07
+    },
+    {
+      "dxf_handle": "4e5",
+      "reference": "TP5",
+      "pad": "1",
+      "error_mm": 6.023485767534802e-07
+    },
+    {
+      "dxf_handle": "4ee",
+      "reference": "TP6",
+      "pad": "1",
+      "error_mm": 4.924828026169736e-07
+    },
+    {
+      "dxf_handle": "4f7",
+      "reference": "TP7",
+      "pad": "1",
+      "error_mm": 3.0159770364243175e-07
+    },
+    {
+      "dxf_handle": "500",
+      "reference": "TP8",
+      "pad": "1",
+      "error_mm": 6.702924385569702e-07
+    },
+    {
+      "dxf_handle": "509",
+      "reference": "TP9",
+      "pad": "1",
+      "error_mm": 5.026239602587496e-07
+    }
+  ],
+  "electrical_net_and_connector_ratings_established": false
+}

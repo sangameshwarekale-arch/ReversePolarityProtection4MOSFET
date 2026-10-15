@@ -1,0 +1,20 @@
+{
+  "status": "PRELIMINARY PLACEMENT; UNROUTED; NOT FABRICATION READY",
+  "kicad_version": "9.0.7",
+  "erc_violations": 0,
+  "unconnected_items": 66,
+  "clearance_errors": 4,
+  "silkscreen_warnings": 7,
+  "schematic_parity": 0,
+  "native_check_exclusions_added": false,
+  "native_files_sha256": {
+    "ReversePolarityProtection4MOSFET.kicad_pcb": "291e8b6199c2fc2242c567669cc0f1837f2036e35f740affb53d9157cf03d2e6",
+    "ReversePolarityProtection4MOSFET.kicad_pro": "4c533f84621a66ac907480fa69fa7a5f74114d2859dfa8a014b62b50ebcb2882",
+    "ReversePolarityProtection4MOSFET.kicad_sch": "63ecd08f4fd3a8126f23c5c5ba8561ea9713e0fb33b691d70a96b9cee0bbe93b"
+  },
+  "actual_saturn_results": false,
+  "hardware_validation": false,
+  "electrical_schematic_nodes_unchanged_from_native_ERC_checked_circuit": true,
+  "PDF_final_render_review": "All60A labels corrected; revision fits; page visually reviewed",
+  "original_backup_intake_hashes_verified": 24
+}

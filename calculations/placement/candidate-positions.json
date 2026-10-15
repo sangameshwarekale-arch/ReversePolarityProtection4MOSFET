@@ -1,0 +1,1070 @@
+{
+  "status": "READ ONLY CONDITIONAL PLACEMENT STUDY; NOT ROUTED OR RATED",
+  "board_snapshot_sha256": "7e6f727a33c201fb72aaaaa1594ccaabde2608f28698f632ac196adcf04269a4",
+  "coordinates": "absolute KiCad millimetres; angles are KiCad degrees; all components F.Cu",
+  "positions": [
+    {
+      "ref": "Q1",
+      "at_mm": [
+        130,
+        84.35
+      ],
+      "angle_deg": 180,
+      "side": "front"
+    },
+    {
+      "ref": "Q2",
+      "at_mm": [
+        130,
+        93.8
+      ],
+      "angle_deg": 180,
+      "side": "front"
+    },
+    {
+      "ref": "Q3",
+      "at_mm": [
+        120.3,
+        84.8
+      ],
+      "angle_deg": 180,
+      "side": "front"
+    },
+    {
+      "ref": "Q4",
+      "at_mm": [
+        120.3,
+        95.5
+      ],
+      "angle_deg": 180,
+      "side": "front"
+    },
+    {
+      "ref": "U1",
+      "at_mm": [
+        119.9,
+        89.4
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "U2",
+      "at_mm": [
+        140.1,
+        93.8
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "C1",
+      "at_mm": [
+        140.5,
+        91.1
+      ],
+      "angle_deg": 180,
+      "side": "front"
+    },
+    {
+      "ref": "C2",
+      "at_mm": [
+        140.1,
+        97.0
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "C3",
+      "at_mm": [
+        122.5,
+        89.4
+      ],
+      "angle_deg": 270,
+      "side": "front"
+    },
+    {
+      "ref": "C4",
+      "at_mm": [
+        114.5,
+        97.8
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "C5",
+      "at_mm": [
+        132.5,
+        103.5
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "D1",
+      "at_mm": [
+        112.8,
+        94.5
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "D2",
+      "at_mm": [
+        137,
+        104.9
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "D3",
+      "at_mm": [
+        120.5,
+        106.2
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "R1",
+      "at_mm": [
+        135.7,
+        87.05
+      ],
+      "angle_deg": 90,
+      "side": "front"
+    },
+    {
+      "ref": "R2",
+      "at_mm": [
+        138.45,
+        86.8
+      ],
+      "angle_deg": 90,
+      "side": "front"
+    },
+    {
+      "ref": "R3",
+      "at_mm": [
+        136.7,
+        97.8
+      ],
+      "angle_deg": 90,
+      "side": "front"
+    },
+    {
+      "ref": "R4",
+      "at_mm": [
+        143.25,
+        95
+      ],
+      "angle_deg": 90,
+      "side": "front"
+    },
+    {
+      "ref": "R5",
+      "at_mm": [
+        124.625,
+        82.15
+      ],
+      "angle_deg": 90,
+      "side": "front"
+    },
+    {
+      "ref": "R6",
+      "at_mm": [
+        121,
+        80.6
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "R7",
+      "at_mm": [
+        122.3,
+        91.7
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "R8",
+      "at_mm": [
+        116.8,
+        108.8
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "R13",
+      "at_mm": [
+        128,
+        103.5
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "R14",
+      "at_mm": [
+        124.3,
+        89.4
+      ],
+      "angle_deg": 90,
+      "side": "front"
+    }
+  ],
+  "validation_assumptions": {
+    "courtyard_to_edge_mm": 0.5,
+    "courtyard_to_fixed_pad_mm": 0.25,
+    "additional_courtyard_to_courtyard_mm": 0.1,
+    "prospective_power_net_clearance_mm": 0.25
+  },
+  "edge_checks": [
+    {
+      "ref": "Q1",
+      "inside": true,
+      "distance_mm": 2.530908392522617
+    },
+    {
+      "ref": "Q2",
+      "inside": true,
+      "distance_mm": 5.478232858174783
+    },
+    {
+      "ref": "Q3",
+      "inside": true,
+      "distance_mm": 1.4210768233122473
+    },
+    {
+      "ref": "Q4",
+      "inside": true,
+      "distance_mm": 5.059537095270693
+    },
+    {
+      "ref": "U1",
+      "inside": true,
+      "distance_mm": 4.684382278447448
+    },
+    {
+      "ref": "U2",
+      "inside": true,
+      "distance_mm": 2.338190107379638
+    },
+    {
+      "ref": "C1",
+      "inside": true,
+      "distance_mm": 0.5423993489022089
+    },
+    {
+      "ref": "C2",
+      "inside": true,
+      "distance_mm": 4.552594400383659
+    },
+    {
+      "ref": "C3",
+      "inside": true,
+      "distance_mm": 7.982385483222988
+    },
+    {
+      "ref": "C4",
+      "inside": true,
+      "distance_mm": 5.731971515687553
+    },
+    {
+      "ref": "C5",
+      "inside": true,
+      "distance_mm": 8.116352022437482
+    },
+    {
+      "ref": "D1",
+      "inside": true,
+      "distance_mm": 0.9940073505525943
+    },
+    {
+      "ref": "D2",
+      "inside": true,
+      "distance_mm": 7.335505626481997
+    },
+    {
+      "ref": "D3",
+      "inside": true,
+      "distance_mm": 5.2669678749744655
+    },
+    {
+      "ref": "R1",
+      "inside": true,
+      "distance_mm": 3.394917000000021
+    },
+    {
+      "ref": "R2",
+      "inside": true,
+      "distance_mm": 0.6449170000000208
+    },
+    {
+      "ref": "R3",
+      "inside": true,
+      "distance_mm": 7.927043744241108
+    },
+    {
+      "ref": "R4",
+      "inside": true,
+      "distance_mm": 1.4146722540999122
+    },
+    {
+      "ref": "R5",
+      "inside": true,
+      "distance_mm": 7.218957504822558
+    },
+    {
+      "ref": "R6",
+      "inside": true,
+      "distance_mm": 3.0768338048698856
+    },
+    {
+      "ref": "R7",
+      "inside": true,
+      "distance_mm": 7.846731567478852
+    },
+    {
+      "ref": "R8",
+      "inside": true,
+      "distance_mm": 4.018591634709041
+    },
+    {
+      "ref": "R13",
+      "inside": true,
+      "distance_mm": 7.112823000000006
+    },
+    {
+      "ref": "R14",
+      "inside": true,
+      "distance_mm": 9.77303406331775
+    }
+  ],
+  "courtyard_pairs_smallest": [
+    {
+      "refs": [
+        "Q3",
+        "R5"
+      ],
+      "distance_mm": 0.10000000000000853
+    },
+    {
+      "refs": [
+        "C3",
+        "R7"
+      ],
+      "distance_mm": 0.10000000000000853
+    },
+    {
+      "refs": [
+        "R7",
+        "R14"
+      ],
+      "distance_mm": 0.10000000000000853
+    },
+    {
+      "refs": [
+        "Q1",
+        "R5"
+      ],
+      "distance_mm": 0.125
+    },
+    {
+      "refs": [
+        "Q4",
+        "R7"
+      ],
+      "distance_mm": 0.13000000000000966
+    },
+    {
+      "refs": [
+        "Q3",
+        "C3"
+      ],
+      "distance_mm": 0.18000000000002103
+    },
+    {
+      "refs": [
+        "Q3",
+        "R14"
+      ],
+      "distance_mm": 0.18000000000002103
+    },
+    {
+      "refs": [
+        "Q1",
+        "R1"
+      ],
+      "distance_mm": 0.21000000000000796
+    },
+    {
+      "refs": [
+        "Q4",
+        "C4"
+      ],
+      "distance_mm": 0.2750000000000199
+    },
+    {
+      "refs": [
+        "U1",
+        "R7"
+      ],
+      "distance_mm": 0.28000000000001535
+    },
+    {
+      "refs": [
+        "U2",
+        "C1"
+      ],
+      "distance_mm": 0.28000000000001535
+    },
+    {
+      "refs": [
+        "C3",
+        "R14"
+      ],
+      "distance_mm": 0.3500000000000085
+    }
+  ],
+  "fixed_pad_gaps_smallest": [
+    {
+      "ref": "Q1",
+      "fixed_ref": "TP7",
+      "fixed_pad": "1",
+      "distance_mm": 0.25193899999999303
+    },
+    {
+      "ref": "R3",
+      "fixed_ref": "J3",
+      "fixed_pad": "1",
+      "distance_mm": 0.26503100000000757
+    },
+    {
+      "ref": "R1",
+      "fixed_ref": "TP9",
+      "fixed_pad": "1",
+      "distance_mm": 0.2650940000000048
+    },
+    {
+      "ref": "R6",
+      "fixed_ref": "TP1",
+      "fixed_pad": "1",
+      "distance_mm": 0.395930000000007
+    },
+    {
+      "ref": "R2",
+      "fixed_ref": "TP9",
+      "fixed_pad": "1",
+      "distance_mm": 0.5150940000000048
+    },
+    {
+      "ref": "C1",
+      "fixed_ref": "TP9",
+      "fixed_pad": "1",
+      "distance_mm": 0.5241709999999955
+    },
+    {
+      "ref": "U1",
+      "fixed_ref": "TP8",
+      "fixed_pad": "1",
+      "distance_mm": 0.7060510000000022
+    },
+    {
+      "ref": "C4",
+      "fixed_ref": "J2",
+      "fixed_pad": "3",
+      "distance_mm": 0.7650310000000076
+    },
+    {
+      "ref": "C4",
+      "fixed_ref": "J2",
+      "fixed_pad": "4",
+      "distance_mm": 0.7650310000000076
+    },
+    {
+      "ref": "C4",
+      "fixed_ref": "J2",
+      "fixed_pad": "2",
+      "distance_mm": 0.832849618515263
+    },
+    {
+      "ref": "U2",
+      "fixed_ref": "TP9",
+      "fixed_pad": "1",
+      "distance_mm": 0.9854832753918137
+    },
+    {
+      "ref": "R3",
+      "fixed_ref": "J1",
+      "fixed_pad": "7",
+      "distance_mm": 1.0337417893560275
+    }
+  ],
+  "intrinsic_different_net_pad_gaps": {
+    "Q1": [
+      {
+        "pads": [
+          "1",
+          "2"
+        ],
+        "nets": [
+          "Net-(Q1-G)",
+          "/VIN_RAW"
+        ],
+        "copper_gap_mm": 0.8000000000000114,
+        "mask_gap_mm": 0.8000000000000114
+      },
+      {
+        "pads": [
+          "1",
+          "5"
+        ],
+        "nets": [
+          "Net-(Q1-G)",
+          "/MID"
+        ],
+        "copper_gap_mm": 1.9000000000000057,
+        "mask_gap_mm": 1.9000000000000057
+      },
+      {
+        "pads": [
+          "2",
+          "5"
+        ],
+        "nets": [
+          "/VIN_RAW",
+          "/MID"
+        ],
+        "copper_gap_mm": 1.9000000000000057,
+        "mask_gap_mm": 1.9000000000000057
+      },
+      {
+        "pads": [
+          "3",
+          "5"
+        ],
+        "nets": [
+          "/VIN_RAW",
+          "/MID"
+        ],
+        "copper_gap_mm": 1.9000000000000057,
+        "mask_gap_mm": 1.9000000000000057
+      },
+      {
+        "pads": [
+          "4",
+          "5"
+        ],
+        "nets": [
+          "/VIN_RAW",
+          "/MID"
+        ],
+        "copper_gap_mm": 1.9000000000000057,
+        "mask_gap_mm": 1.9000000000000057
+      },
+      {
+        "pads": [
+          "1",
+          "5"
+        ],
+        "nets": [
+          "Net-(Q1-G)",
+          "/MID"
+        ],
+        "copper_gap_mm": 1.9950000000000045,
+        "mask_gap_mm": 1.9950000000000045
+      },
+      {
+        "pads": [
+          "2",
+          "5"
+        ],
+        "nets": [
+          "/VIN_RAW",
+          "/MID"
+        ],
+        "copper_gap_mm": 1.9950000000000045,
+        "mask_gap_mm": 1.9950000000000045
+      },
+      {
+        "pads": [
+          "3",
+          "5"
+        ],
+        "nets": [
+          "/VIN_RAW",
+          "/MID"
+        ],
+        "copper_gap_mm": 1.9950000000000045,
+        "mask_gap_mm": 1.9950000000000045
+      }
+    ],
+    "Q3": [
+      {
+        "pads": [
+          "3",
+          "4"
+        ],
+        "nets": [
+          "/MID",
+          "Net-(Q3-G)"
+        ],
+        "copper_gap_mm": 0.5700000000000074,
+        "mask_gap_mm": 0.5700000000000074
+      },
+      {
+        "pads": [
+          "1",
+          "5"
+        ],
+        "nets": [
+          "/MID",
+          "/VOUT"
+        ],
+        "copper_gap_mm": 1.0449999999999875,
+        "mask_gap_mm": 1.0449999999999875
+      },
+      {
+        "pads": [
+          "2",
+          "5"
+        ],
+        "nets": [
+          "/MID",
+          "/VOUT"
+        ],
+        "copper_gap_mm": 1.0449999999999875,
+        "mask_gap_mm": 1.0449999999999875
+      },
+      {
+        "pads": [
+          "3",
+          "5"
+        ],
+        "nets": [
+          "/MID",
+          "/VOUT"
+        ],
+        "copper_gap_mm": 1.0449999999999875,
+        "mask_gap_mm": 1.0449999999999875
+      },
+      {
+        "pads": [
+          "4",
+          "5"
+        ],
+        "nets": [
+          "Net-(Q3-G)",
+          "/VOUT"
+        ],
+        "copper_gap_mm": 1.0449999999999875,
+        "mask_gap_mm": 1.0449999999999875
+      },
+      {
+        "pads": [
+          "2",
+          "4"
+        ],
+        "nets": [
+          "/MID",
+          "Net-(Q3-G)"
+        ],
+        "copper_gap_mm": 1.8500000000000085,
+        "mask_gap_mm": 1.8500000000000085
+      },
+      {
+        "pads": [
+          "1",
+          "4"
+        ],
+        "nets": [
+          "/MID",
+          "Net-(Q3-G)"
+        ],
+        "copper_gap_mm": 3.1200000000000045,
+        "mask_gap_mm": 3.1200000000000045
+      }
+    ],
+    "U1": [
+      {
+        "pads": [
+          "1",
+          "7"
+        ],
+        "nets": [
+          "/S_KELVIN",
+          "/GND"
+        ],
+        "copper_gap_mm": 0.21999999999999886,
+        "mask_gap_mm": 0.21999999999999886
+      },
+      {
+        "pads": [
+          "2",
+          "7"
+        ],
+        "nets": [
+          "/GATE_B",
+          "/GND"
+        ],
+        "copper_gap_mm": 0.21999999999999886,
+        "mask_gap_mm": 0.21999999999999886
+      },
+      {
+        "pads": [
+          "4",
+          "7"
+        ],
+        "nets": [
+          "/MID",
+          "/GND"
+        ],
+        "copper_gap_mm": 0.21999999999999886,
+        "mask_gap_mm": 0.21999999999999886
+      },
+      {
+        "pads": [
+          "6",
+          "7"
+        ],
+        "nets": [
+          "/MID",
+          "/GND"
+        ],
+        "copper_gap_mm": 0.21999999999999886,
+        "mask_gap_mm": 0.21999999999999886
+      },
+      {
+        "pads": [
+          "1",
+          "2"
+        ],
+        "nets": [
+          "/S_KELVIN",
+          "/GATE_B"
+        ],
+        "copper_gap_mm": 0.29999999999998295,
+        "mask_gap_mm": 0.29999999999998295
+      },
+      {
+        "pads": [
+          "2",
+          "3"
+        ],
+        "nets": [
+          "/GATE_B",
+          "/GND"
+        ],
+        "copper_gap_mm": 0.29999999999998295,
+        "mask_gap_mm": 0.29999999999998295
+      },
+      {
+        "pads": [
+          "4",
+          "5"
+        ],
+        "nets": [
+          "/MID",
+          "/GND"
+        ],
+        "copper_gap_mm": 0.29999999999998295,
+        "mask_gap_mm": 0.29999999999998295
+      },
+      {
+        "pads": [
+          "5",
+          "6"
+        ],
+        "nets": [
+          "/GND",
+          "/MID"
+        ],
+        "copper_gap_mm": 0.29999999999998295,
+        "mask_gap_mm": 0.29999999999998295
+      }
+    ],
+    "U2": [
+      {
+        "pads": [
+          "1",
+          "2"
+        ],
+        "nets": [
+          "/VIN_RAW",
+          "/GND"
+        ],
+        "copper_gap_mm": 0.19999999999998863,
+        "mask_gap_mm": 0.19999999999998863
+      },
+      {
+        "pads": [
+          "2",
+          "3"
+        ],
+        "nets": [
+          "/GND",
+          "unconnected-(U2-NC-Pad3)"
+        ],
+        "copper_gap_mm": 0.19999999999998863,
+        "mask_gap_mm": 0.19999999999998863
+      },
+      {
+        "pads": [
+          "3",
+          "4"
+        ],
+        "nets": [
+          "unconnected-(U2-NC-Pad3)",
+          "/VCAP_A"
+        ],
+        "copper_gap_mm": 0.19999999999998863,
+        "mask_gap_mm": 0.19999999999998863
+      },
+      {
+        "pads": [
+          "5",
+          "6"
+        ],
+        "nets": [
+          "/VIN_RAW",
+          "/GATE_A"
+        ],
+        "copper_gap_mm": 0.19999999999998863,
+        "mask_gap_mm": 0.19999999999998863
+      },
+      {
+        "pads": [
+          "6",
+          "7"
+        ],
+        "nets": [
+          "/GATE_A",
+          "unconnected-(U2-NC-Pad7)"
+        ],
+        "copper_gap_mm": 0.19999999999998863,
+        "mask_gap_mm": 0.19999999999998863
+      },
+      {
+        "pads": [
+          "7",
+          "8"
+        ],
+        "nets": [
+          "unconnected-(U2-NC-Pad7)",
+          "unconnected-(U2-NC-Pad8)"
+        ],
+        "copper_gap_mm": 0.19999999999998863,
+        "mask_gap_mm": 0.19999999999998863
+      },
+      {
+        "pads": [
+          "1",
+          "3"
+        ],
+        "nets": [
+          "/VIN_RAW",
+          "unconnected-(U2-NC-Pad3)"
+        ],
+        "copper_gap_mm": 0.8499999999999943,
+        "mask_gap_mm": 0.8499999999999943
+      },
+      {
+        "pads": [
+          "2",
+          "4"
+        ],
+        "nets": [
+          "/GND",
+          "/VCAP_A"
+        ],
+        "copper_gap_mm": 0.8499999999999943,
+        "mask_gap_mm": 0.8499999999999943
+      }
+    ]
+  },
+  "source_drain_world": {
+    "Q1": [
+      {
+        "number": "1",
+        "net": "Net-(Q1-G)",
+        "at_mm": [
+          133.82,
+          87.35
+        ]
+      },
+      {
+        "number": "2",
+        "net": "/VIN_RAW",
+        "at_mm": [
+          133.82,
+          85.35
+        ]
+      },
+      {
+        "number": "3",
+        "net": "/VIN_RAW",
+        "at_mm": [
+          133.82,
+          83.35
+        ]
+      },
+      {
+        "number": "4",
+        "net": "/VIN_RAW",
+        "at_mm": [
+          133.82,
+          81.35
+        ]
+      },
+      {
+        "number": "5",
+        "net": "/MID",
+        "at_mm": [
+          130.55,
+          86.6
+        ]
+      }
+    ],
+    "Q2": [
+      {
+        "number": "1",
+        "net": "Net-(Q2-G)",
+        "at_mm": [
+          133.82,
+          96.8
+        ]
+      },
+      {
+        "number": "2",
+        "net": "/VIN_RAW",
+        "at_mm": [
+          133.82,
+          94.8
+        ]
+      },
+      {
+        "number": "3",
+        "net": "/VIN_RAW",
+        "at_mm": [
+          133.82,
+          92.8
+        ]
+      },
+      {
+        "number": "4",
+        "net": "/VIN_RAW",
+        "at_mm": [
+          133.82,
+          90.8
+        ]
+      },
+      {
+        "number": "5",
+        "net": "/MID",
+        "at_mm": [
+          130.55,
+          96.05
+        ]
+      }
+    ],
+    "Q3": [
+      {
+        "number": "1",
+        "net": "/MID",
+        "at_mm": [
+          122.96999999999998,
+          86.71
+        ]
+      },
+      {
+        "number": "2",
+        "net": "/MID",
+        "at_mm": [
+          122.96999999999998,
+          85.44
+        ]
+      },
+      {
+        "number": "3",
+        "net": "/MID",
+        "at_mm": [
+          122.96999999999998,
+          84.16
+        ]
+      },
+      {
+        "number": "4",
+        "net": "Net-(Q3-G)",
+        "at_mm": [
+          122.96999999999998,
+          82.89
+        ]
+      },
+      {
+        "number": "5",
+        "net": "/VOUT",
+        "at_mm": [
+          119.7,
+          84.8
+        ]
+      }
+    ],
+    "Q4": [
+      {
+        "number": "1",
+        "net": "/MID",
+        "at_mm": [
+          122.97000000000001,
+          97.41
+        ]
+      },
+      {
+        "number": "2",
+        "net": "/MID",
+        "at_mm": [
+          122.97000000000001,
+          96.14
+        ]
+      },
+      {
+        "number": "3",
+        "net": "/MID",
+        "at_mm": [
+          122.97000000000001,
+          94.86
+        ]
+      },
+      {
+        "number": "4",
+        "net": "Net-(Q4-G)",
+        "at_mm": [
+          122.97000000000001,
+          93.59
+        ]
+      },
+      {
+        "number": "5",
+        "net": "/VOUT",
+        "at_mm": [
+          119.69999999999997,
+          95.5
+        ]
+      }
+    ]
+  },
+  "unresolved": [
+    "No routes/pours/vias created; no routed net clearance validation",
+    "Gate bleed resistors and optional gate zeners/EMC capacitor have longer candidate paths than gate resistors; final routing must check gate loop inductance and noise",
+    "Existing NCV footprint land geometry not independently verified against 511DW",
+    "MOSFET sharing, thermals, contacts, stackup, via plating and current transfer unqualified at 60 A",
+    "Fixed footprints have no body/courtyard geometry: pad avoidance cannot establish connector body clearance"
+  ]
+}

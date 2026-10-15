@@ -1,0 +1,14 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-10-15T16:03:27+0530",
+    "kicad_version": "9.0.7",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/5131442b-c222-48f1-9b9f-1a6d48c962a2",
+            "violations": []
+        }
+    ],
+    "source": "ReversePolarityProtection4MOSFET.kicad_sch"
+}

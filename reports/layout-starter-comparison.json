@@ -1,0 +1,188 @@
+{
+  "status": "Unrouted layout starter. Not for fabrication. No 45 A qualification.",
+  "source_file": "C:\\Users\\sanga\\Documents\\Codex\\2026-10-14\\act-as-a-senior-power-electronics\\outputs\\active-project-original-backup\\Reverse Polarity Protection.kicad_pcb",
+  "source_sha256_before_and_after": "5e2ade5c0697987eb2b9448d461077e301d8765232bfa24ed1501fa3eac19166",
+  "schematic_map_sha256": "c974c0ca2723c603dcc4c442a4481add174b64c5db2ff121995764ac21b80a75",
+  "netlist_sha256": "62c8af0b5df013f0b200055c32e49e37b6d2dff07b02a7f41209a546bc8942d3",
+  "output_file": "C:\\Users\\sanga\\Documents\\Codex\\2026-10-14\\act-as-a-senior-power-electronics\\outputs\\ReversePolarityProtection4MOSFET\\ReversePolarityProtection4MOSFET.kicad_pcb",
+  "edge_primitive_count": 60,
+  "outline_exact_match_after_native_reload": true,
+  "outline_bounds_origin_mm": [
+    104.565,
+    72.019012
+  ],
+  "outline_width_mm": 44.570021,
+  "outline_height_mm": 41.556013,
+  "fixed_footprints": [
+    {
+      "reference": "TP8",
+      "at_mm": [
+        116.448949,
+        90.040094
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:WireSolderPad_VMinus_DXF"
+    },
+    {
+      "reference": "TP5",
+      "at_mm": [
+        129.225962,
+        74.915075
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:BatteryTap_B4_DXF"
+    },
+    {
+      "reference": "TP1",
+      "at_mm": [
+        119.22581,
+        78.72907
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:BatteryTap_G_DXF"
+    },
+    {
+      "reference": "TP9",
+      "at_mm": [
+        137.250829,
+        90.040094
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:WireSolderPad_VPlus_DXF"
+    },
+    {
+      "reference": "J3",
+      "at_mm": [
+        136.72581,
+        100.290031
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VPlus_DXF"
+    },
+    {
+      "reference": "TP7",
+      "at_mm": [
+        134.225988,
+        78.803061
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:BatteryTap_B6_DXF"
+    },
+    {
+      "reference": "J2",
+      "at_mm": [
+        109.22581,
+        100.290031
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:Connector_1x04_P2.50mm_VMinus_DXF"
+    },
+    {
+      "reference": "TP3",
+      "at_mm": [
+        124.225861,
+        74.890081
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:BatteryTap_B2_DXF"
+    },
+    {
+      "reference": "TP2",
+      "at_mm": [
+        121.725886,
+        76.065062
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:BatteryTap_B1_DXF"
+    },
+    {
+      "reference": "TP4",
+      "at_mm": [
+        126.725886,
+        74.554064
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:BatteryTap_B3_DXF"
+    },
+    {
+      "reference": "J1",
+      "at_mm": [
+        119.22581,
+        100.290031
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:Header_1x07_P2.50mm_DXF"
+    },
+    {
+      "reference": "TP6",
+      "at_mm": [
+        131.725861,
+        76.115075
+      ],
+      "angle_deg": 0.0,
+      "geometry_exact_match": true,
+      "locked": true,
+      "footprint": "OriginalMechanical:BatteryTap_B5_DXF"
+    }
+  ],
+  "removed_unassigned_original_track_count": 13,
+  "saved_track_count": 0,
+  "saved_zone_count": 0,
+  "schematic_components": 36,
+  "saved_footprint_count": 36,
+  "unplaced_outside_board_electronic_refs": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "D1",
+    "D2",
+    "D3",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6",
+    "R7",
+    "R8",
+    "R13",
+    "R14",
+    "U1",
+    "U2"
+  ],
+  "dnp_refs": [
+    "D3",
+    "D2",
+    "C5"
+  ],
+  "net_assignments_native_reload_verified": true,
+  "schematic_uuid_paths_native_reload_verified": true
+}

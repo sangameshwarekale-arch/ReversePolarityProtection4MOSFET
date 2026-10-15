@@ -1,0 +1,4537 @@
+[
+  {
+    "uuid": "319effa3-a4dd-41dc-8433-b454b54c08fb",
+    "kind": "track",
+    "net": "Net-(Q1-G)",
+    "layer": "B",
+    "start": [
+      133.524999,
+      87.7
+    ],
+    "end": [
+      133.5,
+      87.7
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q1 gate and bleed: R1.2 to Q1.1"
+  },
+  {
+    "uuid": "132d48b7-16ae-44bc-af24-dff2400839a1",
+    "kind": "track",
+    "net": "Net-(Q1-G)",
+    "layer": "B",
+    "start": [
+      133.5,
+      87.7
+    ],
+    "end": [
+      133.5,
+      87.5
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q1 gate and bleed: R1.2 to Q1.1"
+  },
+  {
+    "uuid": "9f93661e-2478-44f0-8c88-66b4f8e735b6",
+    "kind": "track",
+    "net": "Net-(Q1-G)",
+    "layer": "B",
+    "start": [
+      133.5,
+      87.5
+    ],
+    "end": [
+      132.9,
+      86.9
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q1 gate and bleed: R1.2 to Q1.1"
+  },
+  {
+    "uuid": "f6fe263b-e602-4db6-84e9-55a876eb0af6",
+    "kind": "track",
+    "net": "Net-(Q1-G)",
+    "layer": "F",
+    "start": [
+      132.9,
+      86.9
+    ],
+    "end": [
+      133.0,
+      86.9
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q1 gate and bleed: R1.2 to Q1.1"
+  },
+  {
+    "uuid": "5c4a78be-09d3-4e8a-94c8-2cfda93366b5",
+    "kind": "track",
+    "net": "Net-(Q1-G)",
+    "layer": "F",
+    "start": [
+      133.0,
+      86.9
+    ],
+    "end": [
+      133.8,
+      87.7
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q1 gate and bleed: R1.2 to Q1.1"
+  },
+  {
+    "uuid": "e9672acd-42eb-46b1-af18-5d092d2c3d96",
+    "kind": "track",
+    "net": "Net-(Q1-G)",
+    "layer": "F",
+    "start": [
+      133.8,
+      87.7
+    ],
+    "end": [
+      133.82,
+      87.7
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q1 gate and bleed: R1.2 to Q1.1"
+  },
+  {
+    "uuid": "4ea2956d-7503-4c65-9d69-d8e97971012c",
+    "kind": "track",
+    "net": "Net-(Q1-G)",
+    "layer": "B",
+    "start": [
+      133.524999,
+      87.7
+    ],
+    "end": [
+      133.5,
+      87.7
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q1 gate and bleed: R1.2 to R2.2"
+  },
+  {
+    "uuid": "0f4bb463-41c5-43ff-bea3-68eec7406f53",
+    "kind": "track",
+    "net": "Net-(Q1-G)",
+    "layer": "B",
+    "start": [
+      133.5,
+      87.7
+    ],
+    "end": [
+      133.5,
+      85.5
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q1 gate and bleed: R1.2 to R2.2"
+  },
+  {
+    "uuid": "89470880-16db-4d02-a385-553fe3d56472",
+    "kind": "track",
+    "net": "Net-(Q1-G)",
+    "layer": "B",
+    "start": [
+      133.5,
+      85.5
+    ],
+    "end": [
+      133.524999,
+      85.5
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q1 gate and bleed: R1.2 to R2.2"
+  },
+  {
+    "uuid": "3efe2054-7456-4870-90ab-0b211c20e9e2",
+    "kind": "track",
+    "net": "Net-(Q2-G)",
+    "layer": "B",
+    "start": [
+      133.524999,
+      97.3
+    ],
+    "end": [
+      133.5,
+      97.3
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q2 gate and bleed: R3.2 to Q2.1"
+  },
+  {
+    "uuid": "873e1437-260b-45f7-b2fc-d4c1514d2a18",
+    "kind": "track",
+    "net": "Net-(Q2-G)",
+    "layer": "B",
+    "start": [
+      133.5,
+      97.3
+    ],
+    "end": [
+      133.5,
+      97.1
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q2 gate and bleed: R3.2 to Q2.1"
+  },
+  {
+    "uuid": "5663e5b8-3609-417a-a657-a37577db12d3",
+    "kind": "track",
+    "net": "Net-(Q2-G)",
+    "layer": "B",
+    "start": [
+      133.5,
+      97.1
+    ],
+    "end": [
+      132.9,
+      96.5
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q2 gate and bleed: R3.2 to Q2.1"
+  },
+  {
+    "uuid": "e55f90c7-0c94-4bd3-983b-f92a6d53fcb2",
+    "kind": "track",
+    "net": "Net-(Q2-G)",
+    "layer": "F",
+    "start": [
+      132.9,
+      96.5
+    ],
+    "end": [
+      133.0,
+      96.5
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q2 gate and bleed: R3.2 to Q2.1"
+  },
+  {
+    "uuid": "9a418cbd-5db2-43a4-9700-266a63709461",
+    "kind": "track",
+    "net": "Net-(Q2-G)",
+    "layer": "F",
+    "start": [
+      133.0,
+      96.5
+    ],
+    "end": [
+      133.8,
+      97.3
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q2 gate and bleed: R3.2 to Q2.1"
+  },
+  {
+    "uuid": "e39b1225-2f39-4740-af27-4579c3769fa0",
+    "kind": "track",
+    "net": "Net-(Q2-G)",
+    "layer": "F",
+    "start": [
+      133.8,
+      97.3
+    ],
+    "end": [
+      133.82,
+      97.3
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q2 gate and bleed: R3.2 to Q2.1"
+  },
+  {
+    "uuid": "fe2a6212-7d6f-45d7-b58e-753667f5a018",
+    "kind": "track",
+    "net": "Net-(Q2-G)",
+    "layer": "B",
+    "start": [
+      133.524999,
+      97.3
+    ],
+    "end": [
+      133.5,
+      97.3
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q2 gate and bleed: R3.2 to R4.2"
+  },
+  {
+    "uuid": "713d68c4-f1e6-45cc-8454-b859c44190c1",
+    "kind": "track",
+    "net": "Net-(Q2-G)",
+    "layer": "B",
+    "start": [
+      133.5,
+      97.3
+    ],
+    "end": [
+      133.5,
+      95.1
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q2 gate and bleed: R3.2 to R4.2"
+  },
+  {
+    "uuid": "05b36717-a198-4776-ba78-ee95666394bc",
+    "kind": "track",
+    "net": "Net-(Q2-G)",
+    "layer": "B",
+    "start": [
+      133.5,
+      95.1
+    ],
+    "end": [
+      133.524999,
+      95.1
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q2 gate and bleed: R3.2 to R4.2"
+  },
+  {
+    "uuid": "6bfa83d5-8268-4891-bfad-3957ca524748",
+    "kind": "track",
+    "net": "Net-(Q3-G)",
+    "layer": "B",
+    "start": [
+      123.675,
+      83.39
+    ],
+    "end": [
+      123.7,
+      83.4
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to Q3.4"
+  },
+  {
+    "uuid": "9db7800f-0528-492e-9240-1ac937675849",
+    "kind": "track",
+    "net": "Net-(Q3-G)",
+    "layer": "B",
+    "start": [
+      123.7,
+      83.4
+    ],
+    "end": [
+      123.4,
+      83.1
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to Q3.4"
+  },
+  {
+    "uuid": "e63ed107-eda3-4134-b4e1-826c666a73c9",
+    "kind": "track",
+    "net": "Net-(Q3-G)",
+    "layer": "B",
+    "start": [
+      123.4,
+      83.1
+    ],
+    "end": [
+      123.4,
+      82.9
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to Q3.4"
+  },
+  {
+    "uuid": "a94c043f-5ba7-4a04-a8c4-6ccc4c2be7ea",
+    "kind": "track",
+    "net": "Net-(Q3-G)",
+    "layer": "B",
+    "start": [
+      123.4,
+      82.9
+    ],
+    "end": [
+      123.1,
+      82.6
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to Q3.4"
+  },
+  {
+    "uuid": "3c676312-d778-4f8b-9124-905e81d2c2cc",
+    "kind": "track",
+    "net": "Net-(Q3-G)",
+    "layer": "F",
+    "start": [
+      123.1,
+      82.6
+    ],
+    "end": [
+      123.1,
+      83.3
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to Q3.4"
+  },
+  {
+    "uuid": "51dd22b9-15d7-4764-9c6f-abb02069d9d4",
+    "kind": "track",
+    "net": "Net-(Q3-G)",
+    "layer": "F",
+    "start": [
+      123.1,
+      83.3
+    ],
+    "end": [
+      123.0,
+      83.4
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to Q3.4"
+  },
+  {
+    "uuid": "6fe12d33-aefd-4024-be7b-5d891643cfb6",
+    "kind": "track",
+    "net": "Net-(Q3-G)",
+    "layer": "F",
+    "start": [
+      123.0,
+      83.4
+    ],
+    "end": [
+      122.97,
+      83.39
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to Q3.4"
+  },
+  {
+    "uuid": "0b6643ff-19f2-41e5-960a-5b61ddd4955f",
+    "kind": "track",
+    "net": "Net-(Q3-G)",
+    "layer": "B",
+    "start": [
+      123.675,
+      83.39
+    ],
+    "end": [
+      123.7,
+      83.4
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to R6.2"
+  },
+  {
+    "uuid": "861fbd5f-5e60-4af8-be62-413415950d61",
+    "kind": "track",
+    "net": "Net-(Q3-G)",
+    "layer": "B",
+    "start": [
+      123.7,
+      83.4
+    ],
+    "end": [
+      123.7,
+      85.6
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to R6.2"
+  },
+  {
+    "uuid": "b4e93c15-3012-43a8-9df1-b5cf0b82bae8",
+    "kind": "track",
+    "net": "Net-(Q3-G)",
+    "layer": "B",
+    "start": [
+      123.7,
+      85.6
+    ],
+    "end": [
+      123.675,
+      85.6
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to R6.2"
+  },
+  {
+    "uuid": "bc2d2b40-3295-4a38-b038-412f9c0a00cd",
+    "kind": "track",
+    "net": "Net-(Q4-G)",
+    "layer": "B",
+    "start": [
+      123.675,
+      93.8
+    ],
+    "end": [
+      123.7,
+      93.8
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q4 gate and bleed: R7.2 to Q4.4"
+  },
+  {
+    "uuid": "f12c5bc0-11ed-4d4a-9699-431dfc811118",
+    "kind": "track",
+    "net": "Net-(Q4-G)",
+    "layer": "B",
+    "start": [
+      123.7,
+      93.8
+    ],
+    "end": [
+      123.7,
+      92.8
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q4 gate and bleed: R7.2 to Q4.4"
+  },
+  {
+    "uuid": "23fbfeda-6503-4cbe-b1d2-f4154b21a2ec",
+    "kind": "track",
+    "net": "Net-(Q4-G)",
+    "layer": "F",
+    "start": [
+      123.7,
+      92.8
+    ],
+    "end": [
+      123.7,
+      92.9
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q4 gate and bleed: R7.2 to Q4.4"
+  },
+  {
+    "uuid": "2c1c1916-fe31-48cd-bdf1-ecf0d4e3bc05",
+    "kind": "track",
+    "net": "Net-(Q4-G)",
+    "layer": "F",
+    "start": [
+      123.7,
+      92.9
+    ],
+    "end": [
+      123.0,
+      93.6
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q4 gate and bleed: R7.2 to Q4.4"
+  },
+  {
+    "uuid": "c2da6f42-00fb-407f-9bd8-54b916a81322",
+    "kind": "track",
+    "net": "Net-(Q4-G)",
+    "layer": "F",
+    "start": [
+      123.0,
+      93.6
+    ],
+    "end": [
+      122.97,
+      93.59
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q4 gate and bleed: R7.2 to Q4.4"
+  },
+  {
+    "uuid": "0182f7e3-b80f-4d10-a4f0-3214d6cad577",
+    "kind": "track",
+    "net": "Net-(Q4-G)",
+    "layer": "B",
+    "start": [
+      123.675,
+      93.8
+    ],
+    "end": [
+      123.7,
+      93.8
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q4 gate and bleed: R7.2 to R8.2"
+  },
+  {
+    "uuid": "65083625-f710-4230-9ff2-a5dc5cde7da3",
+    "kind": "track",
+    "net": "Net-(Q4-G)",
+    "layer": "B",
+    "start": [
+      123.7,
+      93.8
+    ],
+    "end": [
+      123.7,
+      96.0
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q4 gate and bleed: R7.2 to R8.2"
+  },
+  {
+    "uuid": "f9ba70fe-64a9-4a17-93ba-de27d08acb4d",
+    "kind": "track",
+    "net": "Net-(Q4-G)",
+    "layer": "B",
+    "start": [
+      123.7,
+      96.0
+    ],
+    "end": [
+      123.675,
+      96.0
+    ],
+    "width": 0.2,
+    "purpose": "Individual Q4 gate and bleed: R7.2 to R8.2"
+  },
+  {
+    "uuid": "cbd577e4-0985-4269-86b9-ad54efc4ca4d",
+    "kind": "track",
+    "net": "/S_KELVIN",
+    "layer": "B",
+    "start": [
+      124.71,
+      89.05
+    ],
+    "end": [
+      124.7,
+      89.0
+    ],
+    "width": 0.2,
+    "purpose": "Kelvin gate-driver source sense: U1.1 to R14.2"
+  },
+  {
+    "uuid": "48386004-dc1e-4c36-8f3c-442872b5318c",
+    "kind": "track",
+    "net": "/S_KELVIN",
+    "layer": "B",
+    "start": [
+      124.7,
+      89.0
+    ],
+    "end": [
+      125.4,
+      89.0
+    ],
+    "width": 0.2,
+    "purpose": "Kelvin gate-driver source sense: U1.1 to R14.2"
+  },
+  {
+    "uuid": "db339253-89e3-43db-bcac-cdbe11ab7062",
+    "kind": "track",
+    "net": "/S_KELVIN",
+    "layer": "B",
+    "start": [
+      125.4,
+      89.0
+    ],
+    "end": [
+      127.2,
+      87.2
+    ],
+    "width": 0.2,
+    "purpose": "Kelvin gate-driver source sense: U1.1 to R14.2"
+  },
+  {
+    "uuid": "f33c0638-286a-4e53-b85d-029e0bddafe5",
+    "kind": "track",
+    "net": "/S_KELVIN",
+    "layer": "B",
+    "start": [
+      127.2,
+      87.2
+    ],
+    "end": [
+      127.175,
+      87.25
+    ],
+    "width": 0.2,
+    "purpose": "Kelvin gate-driver source sense: U1.1 to R14.2"
+  },
+  {
+    "uuid": "0c665edd-11bf-4c0e-971e-ce2c9feb8446",
+    "kind": "track",
+    "net": "/VCAP_A",
+    "layer": "B",
+    "start": [
+      138.4,
+      94.475
+    ],
+    "end": [
+      138.4,
+      96.7
+    ],
+    "width": 0.2,
+    "purpose": "Charge-pump capacitor: U2.4 to C2.1"
+  },
+  {
+    "uuid": "eeda327e-4691-46d3-b9aa-49e5613d578b",
+    "kind": "track",
+    "net": "/VCAP_A",
+    "layer": "B",
+    "start": [
+      138.4,
+      96.7
+    ],
+    "end": [
+      138.1,
+      97.0
+    ],
+    "width": 0.2,
+    "purpose": "Charge-pump capacitor: U2.4 to C2.1"
+  },
+  {
+    "uuid": "61b13c40-e0cd-4431-b740-83e821f9e8f1",
+    "kind": "track",
+    "net": "/VCAP_A",
+    "layer": "B",
+    "start": [
+      138.1,
+      97.0
+    ],
+    "end": [
+      138.05,
+      97.0
+    ],
+    "width": 0.2,
+    "purpose": "Charge-pump capacitor: U2.4 to C2.1"
+  },
+  {
+    "uuid": "1524c97d-ab61-4ac3-9670-77d0bfb1e9f6",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      135.8,
+      93.825
+    ],
+    "end": [
+      135.8,
+      93.8
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: U2.6 to D2.1"
+  },
+  {
+    "uuid": "e487a935-8980-4c9d-9042-a59205366192",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      135.8,
+      93.8
+    ],
+    "end": [
+      133.6,
+      93.8
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: U2.6 to D2.1"
+  },
+  {
+    "uuid": "9d1c4d76-fed7-4b46-9aaf-e032db1b779d",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      133.6,
+      93.8
+    ],
+    "end": [
+      132.6,
+      92.8
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: U2.6 to D2.1"
+  },
+  {
+    "uuid": "592afac1-9e1d-4f67-b43f-6844fb793eb6",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      132.6,
+      92.8
+    ],
+    "end": [
+      132.6,
+      92.9
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R3.1"
+  },
+  {
+    "uuid": "0a2fe8db-4bdd-4298-bd47-f3a2daa1b5e0",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      132.6,
+      92.9
+    ],
+    "end": [
+      131.2,
+      94.3
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R3.1"
+  },
+  {
+    "uuid": "eab67eb5-52ce-4019-a748-cc755852756c",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.2,
+      94.3
+    ],
+    "end": [
+      131.2,
+      94.4
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R3.1"
+  },
+  {
+    "uuid": "193375c7-d53a-48e7-aad8-9d0d91a8e520",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.2,
+      94.4
+    ],
+    "end": [
+      131.1,
+      94.5
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R3.1"
+  },
+  {
+    "uuid": "5b7b061b-3a85-4eb3-9f5e-a6f1f0326c06",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.1,
+      94.5
+    ],
+    "end": [
+      131.1,
+      94.7
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R3.1"
+  },
+  {
+    "uuid": "10914aec-7b2d-41a2-97c9-433cfd02e6ec",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.1,
+      94.7
+    ],
+    "end": [
+      131.0,
+      94.8
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R3.1"
+  },
+  {
+    "uuid": "09d73454-adf1-4d5f-ad96-e12ca1aec700",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.0,
+      94.8
+    ],
+    "end": [
+      131.0,
+      96.4
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R3.1"
+  },
+  {
+    "uuid": "4b1f76f7-2a5d-4e7b-ab42-7327b7a8d4cf",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.0,
+      96.4
+    ],
+    "end": [
+      131.9,
+      97.3
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R3.1"
+  },
+  {
+    "uuid": "e32c3dd0-bc7a-4b9d-8f11-417298103364",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.9,
+      97.3
+    ],
+    "end": [
+      131.874999,
+      97.3
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R3.1"
+  },
+  {
+    "uuid": "803e2747-1769-46a4-a399-28f55d8a3a0f",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      132.6,
+      92.8
+    ],
+    "end": [
+      132.6,
+      91.6
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R1.1"
+  },
+  {
+    "uuid": "6faa4c07-bec8-41ab-8363-034a9ec6c10a",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      132.6,
+      91.6
+    ],
+    "end": [
+      131.7,
+      90.7
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R1.1"
+  },
+  {
+    "uuid": "7d68441a-e352-4ae2-a927-dc6e836b936b",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.7,
+      90.7
+    ],
+    "end": [
+      131.7,
+      90.6
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R1.1"
+  },
+  {
+    "uuid": "4a6c9a6b-4336-450e-a05e-c3b7bfcbe1ff",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.7,
+      90.6
+    ],
+    "end": [
+      131.6,
+      90.5
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R1.1"
+  },
+  {
+    "uuid": "f1ead629-cb32-42fd-a5fb-ae1507f3429b",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.6,
+      90.5
+    ],
+    "end": [
+      131.6,
+      88.0
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R1.1"
+  },
+  {
+    "uuid": "94e76fde-4f3a-40c0-8cda-e757911533e7",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.6,
+      88.0
+    ],
+    "end": [
+      131.9,
+      87.7
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R1.1"
+  },
+  {
+    "uuid": "5312dd75-fbb4-444d-9072-27677e755e26",
+    "kind": "track",
+    "net": "/GATE_A",
+    "layer": "B",
+    "start": [
+      131.9,
+      87.7
+    ],
+    "end": [
+      131.874999,
+      87.7
+    ],
+    "width": 0.2,
+    "purpose": "Upstream gate bus and DNP clamp: D2.1 to R1.1"
+  },
+  {
+    "uuid": "d6989551-04b5-4cc1-b4a5-2338398fa906",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      124.71,
+      89.7
+    ],
+    "end": [
+      124.7,
+      89.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R7.1"
+  },
+  {
+    "uuid": "0a5a99b7-dd86-45ac-9f3d-a2db95159377",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      124.7,
+      89.7
+    ],
+    "end": [
+      124.9,
+      89.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R7.1"
+  },
+  {
+    "uuid": "0af50f0e-fdd3-4775-97c1-3eed3fcb0019",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      124.9,
+      89.7
+    ],
+    "end": [
+      125.0,
+      89.8
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R7.1"
+  },
+  {
+    "uuid": "30a22d32-74e7-4e04-b159-6f5ddce4e110",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      125.0,
+      89.8
+    ],
+    "end": [
+      125.2,
+      89.8
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R7.1"
+  },
+  {
+    "uuid": "7d48e55d-fd76-4b90-9733-80f65d0ab9f0",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      125.2,
+      89.8
+    ],
+    "end": [
+      125.4,
+      90.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R7.1"
+  },
+  {
+    "uuid": "0c9926df-e6e1-4fd8-9a31-aeb24ca6c48d",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      125.4,
+      90.0
+    ],
+    "end": [
+      125.4,
+      93.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R7.1"
+  },
+  {
+    "uuid": "da806827-fb12-45f5-a29d-253fd8b654c3",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      125.4,
+      93.7
+    ],
+    "end": [
+      125.3,
+      93.8
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R7.1"
+  },
+  {
+    "uuid": "75064ae4-17a6-4237-96b1-67f9b2e6deba",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      125.3,
+      93.8
+    ],
+    "end": [
+      125.325,
+      93.8
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R7.1"
+  },
+  {
+    "uuid": "de32ef8d-a02d-4d6b-ae13-55379dcf4098",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      125.325,
+      93.8
+    ],
+    "end": [
+      125.3,
+      93.8
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: R7.1 to C5.1"
+  },
+  {
+    "uuid": "551c97b7-7737-4f0d-8456-8b8cd6f26728",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      125.3,
+      93.8
+    ],
+    "end": [
+      127.4,
+      93.8
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: R7.1 to C5.1"
+  },
+  {
+    "uuid": "ad2cbc33-7e90-4f5f-95ed-1ce0525369b6",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      127.4,
+      93.8
+    ],
+    "end": [
+      128.8,
+      92.4
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: R7.1 to C5.1"
+  },
+  {
+    "uuid": "c2a5ef0c-3fc5-408a-99ae-a4540c8313fe",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      128.8,
+      92.4
+    ],
+    "end": [
+      128.775,
+      92.4
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: R7.1 to C5.1"
+  },
+  {
+    "uuid": "d81233ec-7fda-4ede-89e4-077a4242d557",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      128.775,
+      92.4
+    ],
+    "end": [
+      128.8,
+      92.4
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: C5.1 to D3.1"
+  },
+  {
+    "uuid": "46b109e2-48ae-46de-8f4d-1777e593506e",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      128.8,
+      92.4
+    ],
+    "end": [
+      128.8,
+      90.4
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: C5.1 to D3.1"
+  },
+  {
+    "uuid": "dcce0206-2cb0-41a0-9929-289b1ec1bce7",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      128.8,
+      90.4
+    ],
+    "end": [
+      129.5,
+      89.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: C5.1 to D3.1"
+  },
+  {
+    "uuid": "a45e5b03-13d7-4afb-80c8-7ebc0ed60912",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      124.71,
+      89.7
+    ],
+    "end": [
+      124.7,
+      89.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "d2c224e1-d2e6-4dc0-9eff-1f8d3333ee66",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      124.7,
+      89.7
+    ],
+    "end": [
+      125.1,
+      89.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "b17de43b-17cb-4e8b-9541-b2037c491d36",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      125.1,
+      89.7
+    ],
+    "end": [
+      126.0,
+      90.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "a7d61a57-599b-44df-8c8f-22875979eb89",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      126.0,
+      90.6
+    ],
+    "end": [
+      126.1,
+      90.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "5585418b-4d86-4862-9c02-90fa51980734",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      126.1,
+      90.6
+    ],
+    "end": [
+      126.2,
+      90.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "4b8b47e0-b55e-4ebb-be73-f5b85a1736a9",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      126.2,
+      90.7
+    ],
+    "end": [
+      127.2,
+      90.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "c60ae424-bc0f-40d4-bd87-0600da865e0e",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      127.2,
+      90.7
+    ],
+    "end": [
+      127.3,
+      90.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "8ec60d98-c895-4f37-8684-aac717c04f10",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      127.3,
+      90.6
+    ],
+    "end": [
+      127.4,
+      90.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "d75518e5-a621-4e8f-a6b8-db593ab7302b",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      127.4,
+      90.6
+    ],
+    "end": [
+      127.6,
+      90.4
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "d3076fb3-aac1-4f9a-aa5c-6a6ad1e78c5a",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      127.6,
+      90.4
+    ],
+    "end": [
+      127.6,
+      90.3
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "16538b49-917f-46a5-861e-99c9c8251ac7",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      127.6,
+      90.3
+    ],
+    "end": [
+      127.7,
+      90.2
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "16663638-eef1-4eee-887e-bc887d09c7bb",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      127.7,
+      90.2
+    ],
+    "end": [
+      127.7,
+      88.2
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "516b90cb-75b3-4193-8f8e-d422637aee1b",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      127.7,
+      88.2
+    ],
+    "end": [
+      127.9,
+      88.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "5f5b4d7d-836c-4ecd-aebf-d7e61f821619",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      127.9,
+      88.0
+    ],
+    "end": [
+      127.9,
+      87.9
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "43964753-d6e9-4a3e-866d-2e93d62955b9",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      127.9,
+      87.9
+    ],
+    "end": [
+      128.0,
+      87.8
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "e90adf44-40d5-41b4-a128-7a8c525845fd",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      128.0,
+      87.8
+    ],
+    "end": [
+      128.0,
+      86.1
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "335610f3-13a4-4eff-b340-9540c1fbcbf6",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      128.0,
+      86.1
+    ],
+    "end": [
+      125.3,
+      83.4
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "ffb88257-6c0c-40d8-8992-70787d82f6dc",
+    "kind": "track",
+    "net": "/GATE_B",
+    "layer": "B",
+    "start": [
+      125.3,
+      83.4
+    ],
+    "end": [
+      125.325,
+      83.39
+    ],
+    "width": 0.2,
+    "purpose": "Downstream gate bus and DNP branches: U1.2 to R5.1"
+  },
+  {
+    "uuid": "6e03ba70-7d90-41e8-8164-adc2bf6cbb31",
+    "kind": "track",
+    "net": "/VIN_RAW",
+    "layer": "B",
+    "start": [
+      131.874999,
+      85.5
+    ],
+    "end": [
+      131.9,
+      85.5
+    ],
+    "width": 0.2,
+    "purpose": "Q1 local gate-bleed source pickup: R2.1 to Q1.2"
+  },
+  {
+    "uuid": "a0912df4-8179-4973-a992-889548cec1be",
+    "kind": "track",
+    "net": "/VIN_RAW",
+    "layer": "B",
+    "start": [
+      131.9,
+      85.5
+    ],
+    "end": [
+      132.6,
+      84.8
+    ],
+    "width": 0.2,
+    "purpose": "Q1 local gate-bleed source pickup: R2.1 to Q1.2"
+  },
+  {
+    "uuid": "2da158a7-83d0-4a7c-9d1f-63b7908cef9a",
+    "kind": "track",
+    "net": "/VIN_RAW",
+    "layer": "F",
+    "start": [
+      132.6,
+      84.8
+    ],
+    "end": [
+      132.9,
+      84.8
+    ],
+    "width": 0.2,
+    "purpose": "Q1 local gate-bleed source pickup: R2.1 to Q1.2"
+  },
+  {
+    "uuid": "ab7f0cce-3804-4d54-8dea-e313d3bc78dd",
+    "kind": "track",
+    "net": "/VIN_RAW",
+    "layer": "F",
+    "start": [
+      132.9,
+      84.8
+    ],
+    "end": [
+      133.8,
+      85.7
+    ],
+    "width": 0.2,
+    "purpose": "Q1 local gate-bleed source pickup: R2.1 to Q1.2"
+  },
+  {
+    "uuid": "ee47e088-2ffb-4fb6-b393-ae89a7ac9cb5",
+    "kind": "track",
+    "net": "/VIN_RAW",
+    "layer": "F",
+    "start": [
+      133.8,
+      85.7
+    ],
+    "end": [
+      133.82,
+      85.7
+    ],
+    "width": 0.2,
+    "purpose": "Q1 local gate-bleed source pickup: R2.1 to Q1.2"
+  },
+  {
+    "uuid": "a0f7a399-1dff-499d-86c8-cfa54e9e86f7",
+    "kind": "track",
+    "net": "/VIN_RAW",
+    "layer": "B",
+    "start": [
+      131.874999,
+      95.1
+    ],
+    "end": [
+      131.9,
+      95.1
+    ],
+    "width": 0.2,
+    "purpose": "Q2 local gate-bleed source pickup: R4.1 to Q2.2"
+  },
+  {
+    "uuid": "bb7d298f-41b5-4a71-946a-4fafc231f1aa",
+    "kind": "track",
+    "net": "/VIN_RAW",
+    "layer": "B",
+    "start": [
+      131.9,
+      95.1
+    ],
+    "end": [
+      132.6,
+      94.4
+    ],
+    "width": 0.2,
+    "purpose": "Q2 local gate-bleed source pickup: R4.1 to Q2.2"
+  },
+  {
+    "uuid": "3430a7be-c630-443c-a1cc-caac7e811fcc",
+    "kind": "track",
+    "net": "/VIN_RAW",
+    "layer": "F",
+    "start": [
+      132.6,
+      94.4
+    ],
+    "end": [
+      132.9,
+      94.4
+    ],
+    "width": 0.2,
+    "purpose": "Q2 local gate-bleed source pickup: R4.1 to Q2.2"
+  },
+  {
+    "uuid": "38423277-f478-4054-a126-6343d842c441",
+    "kind": "track",
+    "net": "/VIN_RAW",
+    "layer": "F",
+    "start": [
+      132.9,
+      94.4
+    ],
+    "end": [
+      133.8,
+      95.3
+    ],
+    "width": 0.2,
+    "purpose": "Q2 local gate-bleed source pickup: R4.1 to Q2.2"
+  },
+  {
+    "uuid": "8ed68f68-5275-4b0b-8631-e524df2c8a86",
+    "kind": "track",
+    "net": "/VIN_RAW",
+    "layer": "F",
+    "start": [
+      133.8,
+      95.3
+    ],
+    "end": [
+      133.82,
+      95.3
+    ],
+    "width": 0.2,
+    "purpose": "Q2 local gate-bleed source pickup: R4.1 to Q2.2"
+  },
+  {
+    "uuid": "2de126c4-4384-41f3-9dbf-65d4a4e3aabf",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.89,
+      90.35
+    ],
+    "end": [
+      122.9,
+      90.3
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "b4d612c4-7b81-4800-9872-9fe2c25247f3",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.9,
+      90.3
+    ],
+    "end": [
+      122.5,
+      90.3
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "6b7f8d4c-e8c9-4c85-b81d-01415dcd239b",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.5,
+      90.3
+    ],
+    "end": [
+      122.4,
+      90.2
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "9f180d85-6b55-4bb0-8c93-c31b49b7351f",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.4,
+      90.2
+    ],
+    "end": [
+      122.3,
+      90.2
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "6137f8d6-518b-4e54-9fa5-3ff196eed865",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.3,
+      90.2
+    ],
+    "end": [
+      122.3,
+      90.1
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "467c913b-b7f4-444e-afe2-03c35f08416f",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.3,
+      90.1
+    ],
+    "end": [
+      122.2,
+      90.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "2f25c9d0-aa65-4789-92e5-4571700386f8",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.2,
+      90.0
+    ],
+    "end": [
+      122.2,
+      89.4
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "54e4403d-f066-44f8-928b-2abf10cbae4d",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.2,
+      89.4
+    ],
+    "end": [
+      122.3,
+      89.3
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "4973eaa1-5fa3-4cdb-a01e-0dd1729c68c6",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.3,
+      89.3
+    ],
+    "end": [
+      122.3,
+      89.2
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "5b618d99-dec7-456d-bc99-1d4e15420700",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.3,
+      89.2
+    ],
+    "end": [
+      122.4,
+      89.2
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "7bf96abf-06fb-4a07-81eb-35214582374f",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.4,
+      89.2
+    ],
+    "end": [
+      122.5,
+      89.1
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "f6c3a641-a746-4b76-956a-44dd1cc25f48",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.5,
+      89.1
+    ],
+    "end": [
+      122.8,
+      89.1
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "1eb6d039-a410-442b-b894-1ee0fef89752",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.8,
+      89.1
+    ],
+    "end": [
+      122.9,
+      89.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "44c6db48-6180-4a7d-9b2c-dd70964e01cd",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.9,
+      89.0
+    ],
+    "end": [
+      122.89,
+      89.05
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.4 to U1.6"
+  },
+  {
+    "uuid": "71784ece-921f-4c34-851d-6c7056c95c99",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.89,
+      89.05
+    ],
+    "end": [
+      122.9,
+      89.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.6 to C3.1"
+  },
+  {
+    "uuid": "609a72de-0559-45e9-8d4b-d8ad0adef0d2",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.9,
+      89.0
+    ],
+    "end": [
+      121.0,
+      89.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.6 to C3.1"
+  },
+  {
+    "uuid": "fa43b5ac-040b-47d6-a84f-8424f6aa3cac",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      121.0,
+      89.0
+    ],
+    "end": [
+      120.6,
+      88.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.6 to C3.1"
+  },
+  {
+    "uuid": "55d3b8e7-b3f9-4971-b2d2-20835bdb744f",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.89,
+      89.05
+    ],
+    "end": [
+      122.9,
+      89.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.6 to Q3.2"
+  },
+  {
+    "uuid": "6cacfa18-c653-46f3-8d05-32301ce92b13",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      122.9,
+      89.0
+    ],
+    "end": [
+      122.9,
+      88.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.6 to Q3.2"
+  },
+  {
+    "uuid": "21cf7ee9-c02c-4c4c-95e8-b1859c81a6a4",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      122.9,
+      88.0
+    ],
+    "end": [
+      122.9,
+      86.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.6 to Q3.2"
+  },
+  {
+    "uuid": "ba337d95-6b87-4ba6-9cc6-5eae043dbd42",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      122.9,
+      86.0
+    ],
+    "end": [
+      123.0,
+      85.9
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.6 to Q3.2"
+  },
+  {
+    "uuid": "7b928999-97b8-4db8-bf90-11e3ba6a329f",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      123.0,
+      85.9
+    ],
+    "end": [
+      122.97,
+      85.94
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.6 to Q3.2"
+  },
+  {
+    "uuid": "c40cfada-9a9c-4715-86be-92f7603c27b6",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      122.97,
+      85.94
+    ],
+    "end": [
+      123.0,
+      85.9
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: Q3.2 to R6.1"
+  },
+  {
+    "uuid": "87e107d4-04f4-48a8-b881-ee0d8afe3053",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      123.0,
+      85.9
+    ],
+    "end": [
+      124.2,
+      85.9
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: Q3.2 to R6.1"
+  },
+  {
+    "uuid": "8629ab01-175a-44ee-90f0-e01956588c37",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      124.2,
+      85.9
+    ],
+    "end": [
+      124.6,
+      86.3
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: Q3.2 to R6.1"
+  },
+  {
+    "uuid": "255e420b-61a2-496a-a9ef-02c94f0565cc",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      124.6,
+      86.3
+    ],
+    "end": [
+      125.3,
+      85.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: Q3.2 to R6.1"
+  },
+  {
+    "uuid": "5fc5b00c-c4ed-494a-85eb-cb8cd5966bd2",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      125.3,
+      85.6
+    ],
+    "end": [
+      125.325,
+      85.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller MID and Kelvin pickup: Q3.2 to R6.1"
+  },
+  {
+    "uuid": "a03fbfd6-9712-4963-98c4-2fb99a3e341c",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      125.325,
+      96.0
+    ],
+    "end": [
+      125.3,
+      96.0
+    ],
+    "width": 0.2,
+    "purpose": "Q4 local gate-bleed source pickup: R8.1 to Q4.2"
+  },
+  {
+    "uuid": "660c371d-308a-40aa-97e2-f8d08a9cf354",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "start": [
+      125.3,
+      96.0
+    ],
+    "end": [
+      124.6,
+      96.7
+    ],
+    "width": 0.2,
+    "purpose": "Q4 local gate-bleed source pickup: R8.1 to Q4.2"
+  },
+  {
+    "uuid": "d9b738ff-ebc3-4b3d-b26a-aa619eb40190",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      124.6,
+      96.7
+    ],
+    "end": [
+      123.6,
+      96.7
+    ],
+    "width": 0.2,
+    "purpose": "Q4 local gate-bleed source pickup: R8.1 to Q4.2"
+  },
+  {
+    "uuid": "ed98a9ed-928a-47ce-bce8-c7506d69e905",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      123.6,
+      96.7
+    ],
+    "end": [
+      123.0,
+      96.1
+    ],
+    "width": 0.2,
+    "purpose": "Q4 local gate-bleed source pickup: R8.1 to Q4.2"
+  },
+  {
+    "uuid": "13bb801b-f2ee-44c9-9a14-b60777fea98d",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      123.0,
+      96.1
+    ],
+    "end": [
+      122.97,
+      96.14
+    ],
+    "width": 0.2,
+    "purpose": "Q4 local gate-bleed source pickup: R8.1 to Q4.2"
+  },
+  {
+    "uuid": "ad74c920-bf7f-46fd-b04f-28f5b21cba66",
+    "kind": "track",
+    "net": "/VOUT",
+    "layer": "B",
+    "start": [
+      120.85,
+      93.0
+    ],
+    "end": [
+      120.8,
+      93.0
+    ],
+    "width": 0.2,
+    "purpose": "Output bypass local VOUT pickup: C4.1 to Q4.5"
+  },
+  {
+    "uuid": "1f41a0a9-64ea-4287-8af9-61d7450343aa",
+    "kind": "track",
+    "net": "/VOUT",
+    "layer": "B",
+    "start": [
+      120.8,
+      93.0
+    ],
+    "end": [
+      121.8,
+      94.0
+    ],
+    "width": 0.2,
+    "purpose": "Output bypass local VOUT pickup: C4.1 to Q4.5"
+  },
+  {
+    "uuid": "74cda149-0c00-46e6-8738-101112f685b3",
+    "kind": "track",
+    "net": "/VOUT",
+    "layer": "F",
+    "start": [
+      121.8,
+      94.0
+    ],
+    "end": [
+      121.2,
+      94.0
+    ],
+    "width": 0.2,
+    "purpose": "Output bypass local VOUT pickup: C4.1 to Q4.5"
+  },
+  {
+    "uuid": "91af920c-ea9a-4879-9baa-94d8e8954707",
+    "kind": "track",
+    "net": "/VOUT",
+    "layer": "F",
+    "start": [
+      121.2,
+      94.0
+    ],
+    "end": [
+      119.7,
+      95.5
+    ],
+    "width": 0.2,
+    "purpose": "Output bypass local VOUT pickup: C4.1 to Q4.5"
+  },
+  {
+    "uuid": "99f033f8-85c6-46cc-b518-88b3e18f2351",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      124.71,
+      90.35
+    ],
+    "end": [
+      124.7,
+      90.3
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to U1.7"
+  },
+  {
+    "uuid": "9c2816d2-5062-48f2-8027-ed8a843aded8",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      124.7,
+      90.3
+    ],
+    "end": [
+      124.3,
+      90.3
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to U1.7"
+  },
+  {
+    "uuid": "a58088cc-f278-4113-a715-619140a2f515",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      124.3,
+      90.3
+    ],
+    "end": [
+      124.1,
+      90.1
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to U1.7"
+  },
+  {
+    "uuid": "d40618a7-ff6a-4b7a-9f42-8e5657b91e62",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      124.1,
+      90.1
+    ],
+    "end": [
+      124.1,
+      90.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to U1.7"
+  },
+  {
+    "uuid": "0c7eae92-9291-4340-94db-b43eeec6d6ca",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      124.1,
+      90.0
+    ],
+    "end": [
+      123.8,
+      89.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to U1.7"
+  },
+  {
+    "uuid": "91a19917-3633-4bf6-bec7-0a57103db14f",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.8,
+      89.7
+    ],
+    "end": [
+      122.89,
+      89.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.7 to U1.5"
+  },
+  {
+    "uuid": "a7cb75ee-189a-4811-8e5a-a2dd1185730f",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      122.89,
+      89.7
+    ],
+    "end": [
+      123.3,
+      89.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "123a0cdb-2b67-4eb9-9e09-c04e838deb99",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.3,
+      89.7
+    ],
+    "end": [
+      123.5,
+      89.9
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "a31c9012-d7f0-4e3b-9410-3e1908e27302",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.5,
+      89.9
+    ],
+    "end": [
+      123.5,
+      90.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "5e6e1e6c-92c7-471b-af9a-8dece9042f4b",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.5,
+      90.0
+    ],
+    "end": [
+      123.6,
+      90.1
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "0fd2bf24-049a-4c0a-84d5-1f539f8aaf4d",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.6,
+      90.1
+    ],
+    "end": [
+      123.6,
+      90.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "95f9cc31-5a6a-4c12-8c64-0b062568d589",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.6,
+      90.6
+    ],
+    "end": [
+      123.5,
+      90.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "26b31aec-7d3a-4768-8446-156485675e77",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.5,
+      90.7
+    ],
+    "end": [
+      123.5,
+      90.8
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "e18dd509-dd8f-4f5a-9802-bca2ea824f3d",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.5,
+      90.8
+    ],
+    "end": [
+      123.4,
+      90.9
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "567b85cd-9a20-4d6a-af71-90d140b9c6d9",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.4,
+      90.9
+    ],
+    "end": [
+      123.2,
+      90.9
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "fd3665d4-fb69-4b9b-8059-ca260d29b0f6",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.2,
+      90.9
+    ],
+    "end": [
+      123.1,
+      91.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "88d55bb6-f04a-468f-be28-5b68e0db6c6d",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      123.1,
+      91.0
+    ],
+    "end": [
+      121.4,
+      91.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "909ceccf-fdb9-46a8-b5e9-c4a9daae46c7",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      121.4,
+      91.0
+    ],
+    "end": [
+      120.6,
+      90.2
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "71f97181-6889-4b39-8a21-00410e0a6e5e",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      120.6,
+      90.2
+    ],
+    "end": [
+      120.6,
+      90.15
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.5 to C3.2"
+  },
+  {
+    "uuid": "2eb01147-5e0c-4013-8d9e-56ab04fde24c",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      124.71,
+      90.35
+    ],
+    "end": [
+      124.7,
+      90.3
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "08641473-d2b7-4579-97ee-ee3d9443969f",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      124.7,
+      90.3
+    ],
+    "end": [
+      124.7,
+      90.9
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "29815dd0-0135-462d-9963-acbb074a3fa6",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      124.7,
+      90.9
+    ],
+    "end": [
+      124.6,
+      91.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "938a8c8e-cdf2-4760-a80d-f266b126f1e7",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "F",
+    "start": [
+      124.6,
+      91.0
+    ],
+    "end": [
+      124.9,
+      90.7
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "e7518073-3009-4be4-b1d0-670fb3eff5ec",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "F",
+    "start": [
+      124.9,
+      90.7
+    ],
+    "end": [
+      124.9,
+      90.1
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "aa8e5e6c-fde7-4549-b5e4-ad937241322a",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "F",
+    "start": [
+      124.9,
+      90.1
+    ],
+    "end": [
+      125.4,
+      89.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "b5f08fd0-d0dd-4ecd-8d83-039513543fb2",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "F",
+    "start": [
+      125.4,
+      89.6
+    ],
+    "end": [
+      127.7,
+      89.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "703925d0-04a6-4617-bde9-8951dd3d03ee",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "F",
+    "start": [
+      127.7,
+      89.6
+    ],
+    "end": [
+      128.5,
+      88.8
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "76405ccc-6209-4846-b1a8-012df802275e",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      128.5,
+      88.8
+    ],
+    "end": [
+      128.5,
+      89.9
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "9c1a10ab-6657-41f9-992f-a05f4832a2a7",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      128.5,
+      89.9
+    ],
+    "end": [
+      128.3,
+      90.1
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "16a6baeb-c6fe-4816-bb2d-8458567877c7",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      128.3,
+      90.1
+    ],
+    "end": [
+      128.3,
+      91.3
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "44afe3ab-60c2-4811-908f-a941f90393fb",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      128.3,
+      91.3
+    ],
+    "end": [
+      127.2,
+      92.4
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "11a49375-9702-4ef6-813b-40bd513e800e",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      127.2,
+      92.4
+    ],
+    "end": [
+      127.225,
+      92.4
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "9fc3016c-e408-41af-bfe5-578ed337f323",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      120.6,
+      90.15
+    ],
+    "end": [
+      120.6,
+      91.4
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: C3.2 to C4.2"
+  },
+  {
+    "uuid": "82d44907-485d-4c06-8a99-d752e96bb136",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      120.6,
+      91.4
+    ],
+    "end": [
+      119.0,
+      93.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: C3.2 to C4.2"
+  },
+  {
+    "uuid": "1480ed7d-b70c-4542-8f3c-a50fd1ade8f4",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      119.0,
+      93.0
+    ],
+    "end": [
+      118.95,
+      93.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: C3.2 to C4.2"
+  },
+  {
+    "uuid": "8a31a0c1-dc48-4207-9240-3b3fb0cbe07f",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      118.95,
+      93.0
+    ],
+    "end": [
+      119.0,
+      93.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: C4.2 to TP8.1"
+  },
+  {
+    "uuid": "abdd9b13-626c-422e-a9d7-b1f6cea62d5b",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      119.0,
+      93.0
+    ],
+    "end": [
+      119.0,
+      92.6
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: C4.2 to TP8.1"
+  },
+  {
+    "uuid": "a455017d-e9d2-4e97-bd5a-56c83a0d12bc",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      119.0,
+      92.6
+    ],
+    "end": [
+      116.4,
+      90.0
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: C4.2 to TP8.1"
+  },
+  {
+    "uuid": "38c9fa6e-4bf8-4f0f-9e7a-4f66d91e67ad",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "start": [
+      116.4,
+      90.0
+    ],
+    "end": [
+      116.448949,
+      90.040094
+    ],
+    "width": 0.2,
+    "purpose": "Downstream controller and bypass ground return: C4.2 to TP8.1"
+  },
+  {
+    "uuid": "6ddd59d7-5c32-41a9-b956-f714db3721ea",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      126.0875,
+      105.0
+    ],
+    "end": [
+      126.1,
+      105.0
+    ],
+    "width": 0.2,
+    "purpose": "Local MID-to-ground bleed MID pickup: R13.1 to Q2.5"
+  },
+  {
+    "uuid": "078feb80-506c-4431-bd1b-507b7fa6b933",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      126.1,
+      105.0
+    ],
+    "end": [
+      126.1,
+      101.8
+    ],
+    "width": 0.2,
+    "purpose": "Local MID-to-ground bleed MID pickup: R13.1 to Q2.5"
+  },
+  {
+    "uuid": "0f5eaf7a-9535-459a-bb42-cba45a21deaa",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      126.1,
+      101.8
+    ],
+    "end": [
+      125.6,
+      101.3
+    ],
+    "width": 0.2,
+    "purpose": "Local MID-to-ground bleed MID pickup: R13.1 to Q2.5"
+  },
+  {
+    "uuid": "02cdc45f-7c8f-48ff-9310-dca0e5d81047",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      125.6,
+      101.3
+    ],
+    "end": [
+      125.6,
+      93.2
+    ],
+    "width": 0.2,
+    "purpose": "Local MID-to-ground bleed MID pickup: R13.1 to Q2.5"
+  },
+  {
+    "uuid": "a9a2f8fb-b2ac-45ee-a160-9860c55cc17f",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      125.6,
+      93.2
+    ],
+    "end": [
+      126.2,
+      92.6
+    ],
+    "width": 0.2,
+    "purpose": "Local MID-to-ground bleed MID pickup: R13.1 to Q2.5"
+  },
+  {
+    "uuid": "dd5cd162-6bb4-4b76-9f86-b31898c6cce7",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "start": [
+      126.2,
+      92.6
+    ],
+    "end": [
+      126.175,
+      92.6
+    ],
+    "width": 0.2,
+    "purpose": "Local MID-to-ground bleed MID pickup: R13.1 to Q2.5"
+  },
+  {
+    "uuid": "14ac82cc-aa29-44c3-8753-0fcc2f953cb6",
+    "kind": "via",
+    "net": "Net-(Q1-G)",
+    "at": [
+      132.9,
+      86.9
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Individual Q1 gate and bleed: R1.2 to Q1.1"
+  },
+  {
+    "uuid": "3d50e767-8bdc-47db-b27b-e7c0f9e5be9e",
+    "kind": "via",
+    "net": "Net-(Q2-G)",
+    "at": [
+      132.9,
+      96.5
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Individual Q2 gate and bleed: R3.2 to Q2.1"
+  },
+  {
+    "uuid": "4599f4a5-fa6c-4f6c-859a-2967ab084cde",
+    "kind": "via",
+    "net": "Net-(Q3-G)",
+    "at": [
+      123.1,
+      82.6
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Individual Q3 gate and bleed: R5.2 to Q3.4"
+  },
+  {
+    "uuid": "7e27fee5-a6fa-468a-a9ba-be02f67824ed",
+    "kind": "via",
+    "net": "Net-(Q4-G)",
+    "at": [
+      123.7,
+      92.8
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Individual Q4 gate and bleed: R7.2 to Q4.4"
+  },
+  {
+    "uuid": "dc727056-454b-4fcb-9c8e-8aa669ac317e",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      132.6,
+      84.8
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Q1 local gate-bleed source pickup: R2.1 to Q1.2"
+  },
+  {
+    "uuid": "6f916cac-7d75-4cdd-accb-a9abd598c2b7",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      132.6,
+      94.4
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Q2 local gate-bleed source pickup: R4.1 to Q2.2"
+  },
+  {
+    "uuid": "fa931d50-310e-4a37-9388-0e6e74ffbe28",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      122.9,
+      88.0
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Downstream controller MID and Kelvin pickup: U1.6 to Q3.2"
+  },
+  {
+    "uuid": "2574b006-223f-4913-973a-d4c41be14ada",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      124.6,
+      86.3
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Downstream controller MID and Kelvin pickup: Q3.2 to R6.1"
+  },
+  {
+    "uuid": "d2d9333f-923a-4876-94e8-1c82f5acc8dc",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      124.6,
+      96.7
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Q4 local gate-bleed source pickup: R8.1 to Q4.2"
+  },
+  {
+    "uuid": "62245150-3fe9-46d2-ace1-248901b1c2c9",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      121.8,
+      94.0
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Output bypass local VOUT pickup: C4.1 to Q4.5"
+  },
+  {
+    "uuid": "116586b9-2077-46a0-ae63-2f71d8b47389",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      124.6,
+      91.0
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "147ff9c7-7bc6-477b-9985-cc9ab1d94c78",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      128.5,
+      88.8
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "Downstream controller and bypass ground return: U1.3 to C5.2"
+  },
+  {
+    "uuid": "de3bd6da-7f54-4934-aaac-bb846c143ee5",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "F",
+    "points": [
+      [
+        110.6,
+        94.5
+      ],
+      [
+        110.6,
+        96.5
+      ]
+    ],
+    "width": 0.6,
+    "purpose": "Negative-MID clamp D1 feed",
+    "start": [
+      110.6,
+      94.5
+    ],
+    "end": [
+      110.6,
+      96.5
+    ]
+  },
+  {
+    "uuid": "e414107f-9970-4908-bb1d-0e8e41470740",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "points": [
+      [
+        110.6,
+        96.5
+      ],
+      [
+        110.6,
+        99.0
+      ],
+      [
+        125.0,
+        99.0
+      ]
+    ],
+    "width": 0.6,
+    "purpose": "Negative-MID clamp D1 feed",
+    "start": [
+      110.6,
+      96.5
+    ],
+    "end": [
+      110.6,
+      99.0
+    ]
+  },
+  {
+    "uuid": "e37cc3be-e0ab-4f94-a5c7-7fe7663fe810",
+    "kind": "track",
+    "net": "/MID",
+    "layer": "B",
+    "points": [
+      [
+        110.6,
+        96.5
+      ],
+      [
+        110.6,
+        99.0
+      ],
+      [
+        125.0,
+        99.0
+      ]
+    ],
+    "width": 0.6,
+    "purpose": "Negative-MID clamp D1 feed",
+    "start": [
+      110.6,
+      99.0
+    ],
+    "end": [
+      125.0,
+      99.0
+    ]
+  },
+  {
+    "uuid": "c241f96f-e454-46a9-a8cd-c918f8ad171b",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "points": [
+      [
+        138.4,
+        93.175
+      ],
+      [
+        139.45,
+        93.175
+      ],
+      [
+        139.9,
+        92.725
+      ],
+      [
+        140.4,
+        92.725
+      ]
+    ],
+    "width": 0.2,
+    "purpose": "U2 to C1 local ground bypass",
+    "start": [
+      138.4,
+      93.175
+    ],
+    "end": [
+      139.45,
+      93.175
+    ]
+  },
+  {
+    "uuid": "b9095ce9-9e07-44a2-b4f1-54c8b70ac42d",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "points": [
+      [
+        138.4,
+        93.175
+      ],
+      [
+        139.45,
+        93.175
+      ],
+      [
+        139.9,
+        92.725
+      ],
+      [
+        140.4,
+        92.725
+      ]
+    ],
+    "width": 0.2,
+    "purpose": "U2 to C1 local ground bypass",
+    "start": [
+      139.45,
+      93.175
+    ],
+    "end": [
+      139.9,
+      92.725
+    ]
+  },
+  {
+    "uuid": "06f34ba6-acd5-4615-8274-337bb3d44d90",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "points": [
+      [
+        138.4,
+        93.175
+      ],
+      [
+        139.45,
+        93.175
+      ],
+      [
+        139.9,
+        92.725
+      ],
+      [
+        140.4,
+        92.725
+      ]
+    ],
+    "width": 0.2,
+    "purpose": "U2 to C1 local ground bypass",
+    "start": [
+      139.9,
+      92.725
+    ],
+    "end": [
+      140.4,
+      92.725
+    ]
+  },
+  {
+    "uuid": "6fc44bde-94d9-463a-918d-dd2fd0918fb5",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "points": [
+      [
+        140.4,
+        92.725
+      ],
+      [
+        140.4,
+        91.9
+      ],
+      [
+        139.6,
+        91.1
+      ]
+    ],
+    "width": 0.2,
+    "purpose": "C1 local ground reference via",
+    "start": [
+      140.4,
+      92.725
+    ],
+    "end": [
+      140.4,
+      91.9
+    ]
+  },
+  {
+    "uuid": "571683fd-2364-4a5f-8f63-89c3f77ef5f2",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "B",
+    "points": [
+      [
+        140.4,
+        92.725
+      ],
+      [
+        140.4,
+        91.9
+      ],
+      [
+        139.6,
+        91.1
+      ]
+    ],
+    "width": 0.2,
+    "purpose": "C1 local ground reference via",
+    "start": [
+      140.4,
+      91.9
+    ],
+    "end": [
+      139.6,
+      91.1
+    ]
+  },
+  {
+    "uuid": "28d2ea86-cef8-4fde-a6be-1df7ac00d181",
+    "kind": "track",
+    "net": "/GND",
+    "layer": "F",
+    "points": [
+      [
+        115.0,
+        94.5
+      ],
+      [
+        116.2,
+        94.5
+      ]
+    ],
+    "width": 0.2,
+    "purpose": "D1 ground return to rear power-ground",
+    "start": [
+      115.0,
+      94.5
+    ],
+    "end": [
+      116.2,
+      94.5
+    ]
+  },
+  {
+    "uuid": "dbd9095b-fe6c-457e-9787-78a5c58d9cdb",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      139.6,
+      91.1
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "C1 local ground reference to internal GND"
+  },
+  {
+    "uuid": "0e6e0274-3140-4068-8680-cdfd4ff18ac1",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      110.6,
+      96.5
+    ],
+    "diameter": 0.7,
+    "drill": 0.3,
+    "purpose": "D1 negative MID clamp route layer transfer"
+  },
+  {
+    "uuid": "8eed08ae-84a5-45a0-a642-5d549b2b375b",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      116.2,
+      94.5
+    ],
+    "diameter": 0.6,
+    "drill": 0.3,
+    "purpose": "D1 ground return; 0.15mm nominal via annulus, fabrication check"
+  },
+  {
+    "uuid": "dac1b5cb-f8b0-4af3-a697-f832854bd48f",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      126.9,
+      89.0
+    ],
+    "diameter": 0.55,
+    "drill": 0.25,
+    "purpose": "D3 MID island tie adjacent to Q1 drain; VIA-IN-PAD, epoxy filled and copper capped REQUIRED",
+    "process": "Filled and copper capped both sides; not an ordinary open via. D3 remains DNP."
+  },
+  {
+    "uuid": "21ab315f-2960-4841-9965-83f548a3a31b",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      116.4,
+      82.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q3 power/thermal layer transfer",
+    "group": "Q3"
+  },
+  {
+    "uuid": "dac5c06d-5257-463c-bf88-40e5e5f4fbb0",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      118.6,
+      82.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q3 power/thermal layer transfer",
+    "group": "Q3"
+  },
+  {
+    "uuid": "85a65ed2-4568-438e-9023-2f8dab23a872",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      118.6,
+      88.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q3 power/thermal layer transfer",
+    "group": "Q3"
+  },
+  {
+    "uuid": "2376d284-07fe-4e07-a73e-fdd488cf86c6",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      121.6,
+      82.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q3 power/thermal layer transfer",
+    "group": "Q3"
+  },
+  {
+    "uuid": "8c069218-5794-4066-8076-a50c430ba76e",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      115.8,
+      83.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q3 power/thermal layer transfer",
+    "group": "Q3"
+  },
+  {
+    "uuid": "199f7093-e942-43b0-a1a5-686f057cf44d",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      115.8,
+      85.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q3 power/thermal layer transfer",
+    "group": "Q3"
+  },
+  {
+    "uuid": "9ad6b8f4-a45e-43af-97fb-7fcc5c6a0735",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      115.8,
+      86.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q3 power/thermal layer transfer",
+    "group": "Q3"
+  },
+  {
+    "uuid": "e04d3c0d-8a5c-4055-b57e-1333089727d6",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      120.2,
+      82.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q3 power/thermal layer transfer",
+    "group": "Q3"
+  },
+  {
+    "uuid": "475c8966-8128-4237-a8ff-609070521301",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      117.2,
+      81.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q3 power/thermal layer transfer",
+    "group": "Q3"
+  },
+  {
+    "uuid": "7ffd8032-e26a-4b9f-b731-16d700714fcb",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      116.4,
+      92.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q4 power/thermal layer transfer",
+    "group": "Q4"
+  },
+  {
+    "uuid": "3043ace3-bdb9-4582-9f11-8c321073bf20",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      115.8,
+      96.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q4 power/thermal layer transfer",
+    "group": "Q4"
+  },
+  {
+    "uuid": "3c43fd08-0b3f-4d83-a723-a568bd430051",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      115.4,
+      97.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q4 power/thermal layer transfer",
+    "group": "Q4"
+  },
+  {
+    "uuid": "456649cd-45dc-4220-ba76-e084d505b330",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      114.8,
+      92.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q4 power/thermal layer transfer",
+    "group": "Q4"
+  },
+  {
+    "uuid": "e47d7295-fe09-4396-bf62-901b96ed35b7",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      114.2,
+      96.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q4 power/thermal layer transfer",
+    "group": "Q4"
+  },
+  {
+    "uuid": "76c0c117-4a0b-41f8-a78b-743bb739d174",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      113.8,
+      97.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q4 power/thermal layer transfer",
+    "group": "Q4"
+  },
+  {
+    "uuid": "0c5a3814-f7ab-4c43-823b-91573fa15a71",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      113.4,
+      93.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q4 power/thermal layer transfer",
+    "group": "Q4"
+  },
+  {
+    "uuid": "719150b5-2d3f-470a-8985-978440997571",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      113.4,
+      94.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q4 power/thermal layer transfer",
+    "group": "Q4"
+  },
+  {
+    "uuid": "bc6a9b8c-8580-4bc6-b664-1a0eff81ff8b",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      113.0,
+      91.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q4 power/thermal layer transfer",
+    "group": "Q4"
+  },
+  {
+    "uuid": "df06531f-0ac3-4b0f-b1e9-13ab1e22af6d",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      141.0,
+      102.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "57ea324f-19e9-495e-811d-f345e7725649",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      139.6,
+      101.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "cd7c50c6-79f5-4b95-b8c2-30263957c4be",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      132.4,
+      109.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "850f212f-3698-4085-b71b-b7f92db1db0d",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      142.8,
+      111.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "3347c48e-8969-4981-99fa-7acdb950c094",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      143.6,
+      105.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "8eb99085-cd0b-40ef-9577-779d16f97c3c",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      132.8,
+      104.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "6c10e5df-3ae3-4c0a-9ba7-60edef2f40c7",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      142.6,
+      103.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "8d557910-fed4-42d2-a919-c7f0698e6784",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      136.4,
+      101.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "469dd83e-586e-417f-98a4-8eddf5d8b3be",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      143.8,
+      108.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "50881d52-fe12-4f73-a5f2-fd8f59c72f3a",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      134.6,
+      102.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "840903af-6e76-450c-990c-48d3810cd39d",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      132.2,
+      106.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "498f9e09-b803-48e0-ace2-1976a345d5fa",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      138.0,
+      101.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "449edef0-d960-4cfb-8f57-06ddd490e404",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      133.8,
+      111.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "78c82ab8-41a2-4af7-afc4-f67f3a47d296",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      132.0,
+      107.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "e7da0426-48c0-4139-b987-78d007603ae4",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      144.0,
+      107.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "56bbab35-a678-4ad2-a90a-e4eb8e13945d",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      133.2,
+      103.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "6c26f939-b7f2-473a-9fcc-8af2bb70d663",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      132.4,
+      111.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "cdb7abc0-43b9-4605-802f-4beb888d073c",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      144.2,
+      110.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "2cec8daf-bff7-4e14-b6ba-6c7d8a91631b",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      144.0,
+      104.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "bd4160ef-e754-4c21-ae7e-2860905e7d92",
+    "kind": "via",
+    "net": "/VOUT",
+    "at": [
+      131.2,
+      108.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J4 power/thermal layer transfer",
+    "group": "J4"
+  },
+  {
+    "uuid": "5d3feb35-3fd7-4671-ad1d-3fdd27468603",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      121.4,
+      107.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "b8cb6480-7065-43f7-a117-067de9687bd0",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      110.0,
+      105.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "0e0d546c-a099-4d1b-873f-a100ce38920d",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      111.0,
+      103.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "ac306e8d-e819-47d0-a416-a667d61a6c24",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      119.4,
+      112.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "045765ae-46f9-47b8-82b7-69276bb6720f",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      109.6,
+      106.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "f328c160-b8b4-4560-9aef-fbb03271cbec",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      118.8,
+      102.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "e44aa116-fa9a-482e-95d7-7f7e385fd666",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      120.4,
+      104.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "4e9c5adc-b19e-4cf7-946e-0d853de859a0",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      112.8,
+      102.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "fc923185-ff2b-4953-94e4-df3f1f7b92fb",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      120.8,
+      110.2
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "73ea403e-0108-4fc4-868b-3b434c5e62fd",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      109.6,
+      108.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "c0a4f045-01a6-469c-bbcc-81e78bcb00ad",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      110.4,
+      110.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "40cad040-9ad2-4ea6-bba5-97b995b8e9a9",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      115.6,
+      101.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "e624788d-1566-4491-920d-3e4ec0e19909",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      117.2,
+      101.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "fda825ca-b00f-4ec7-892b-0fbfb7b321cd",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      121.4,
+      108.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "ef9f3f80-d761-4b23-8963-48995b0cb0aa",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      121.0,
+      105.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "2b9b8292-962b-448b-898a-8075cb888ce8",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      109.2,
+      109.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "ccc15f70-6ec5-4b9d-86d3-6e45d9a33785",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      120.4,
+      102.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "42ac227f-4555-4a5e-801c-61f1ca1bcc14",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      111.2,
+      102.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "d14869df-9b2a-4834-9a26-099347b3a2ec",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      121.0,
+      111.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "70a68bcd-9bda-4dc5-bbcc-9ae423436426",
+    "kind": "via",
+    "net": "/GND",
+    "at": [
+      108.4,
+      107.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "J5 power/thermal layer transfer",
+    "group": "J5"
+  },
+  {
+    "uuid": "39772836-793e-4c89-b430-4a4daf66846c",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      135.0,
+      80.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "135cf880-932e-408b-8493-3e2196dd60f3",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      135.2,
+      82.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "e4b21101-6b6b-4196-a099-1269803b9c5c",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      135.2,
+      84.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "0980b541-4cd5-4bea-b7eb-60ce8ed8fa9f",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      135.2,
+      86.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "ff6052e9-a22f-4f7e-8391-59f3e9d0b662",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      136.2,
+      81.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "ea7e2cb3-76a8-4790-8cb0-e8728efd66ec",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      136.4,
+      83.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "e7a9e1f1-aaf1-470d-8553-34cebc8fb8d3",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      136.4,
+      85.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "e80ada59-ff3a-4f23-88ec-bbcf31933258",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      135.6,
+      88.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "8bf127ba-6f26-4405-ba77-55a321efb9e0",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      142.0,
+      93.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "4cd2c6f2-db8c-4f46-83c0-d9adf1256e95",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      142.0,
+      95.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "9a411c04-67a6-413b-82cb-527d868f9ca3",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      142.0,
+      96.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "7cb782a0-39e1-4eba-94a5-f8805d047a6e",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      142.8,
+      91.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "070513ec-67b1-4259-a0cf-9e1128f5ae6e",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      142.8,
+      97.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "a824bc8f-a792-4568-b1b5-00fcdf548329",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      143.2,
+      93.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "ca1f1de3-1bf8-47e8-a569-e1122c9b0de6",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      143.2,
+      95.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "9db21ff3-a9c3-4059-b709-01f7538bfdbc",
+    "kind": "via",
+    "net": "/VIN_RAW",
+    "at": [
+      144.0,
+      97.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "56f2914c-9e02-4adb-99c9-0c3562324d01",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      128.2,
+      80.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "44cc3255-8de9-40f3-844a-4fa0cf78912f",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      125.0,
+      80.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "cba890b0-562e-46fa-b1ad-92b729f2dc6e",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      132.0,
+      81.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "5a8002c1-8ffc-4e4c-83d9-26b680c96082",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      129.6,
+      80.4
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "c50d4272-d4bd-4cb8-b3e0-eab842392ff0",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      124.8,
+      81.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q1 power/thermal layer transfer",
+    "group": "Q1"
+  },
+  {
+    "uuid": "d981ca88-4721-44c0-8f71-02f3aa0a0d09",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      128.4,
+      98.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "3bb07de1-ada4-4f2e-9fa0-50491ae6fc5b",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      130.0,
+      98.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "d798757b-6f33-4977-9fa8-bbf784fc625a",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      124.8,
+      97.8
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "5be5b177-e627-4f9f-93dc-b7d25afd479f",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      123.6,
+      98.6
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  },
+  {
+    "uuid": "25a96834-a090-4f13-be35-350c0bdd6df8",
+    "kind": "via",
+    "net": "/MID",
+    "at": [
+      122.6,
+      92.0
+    ],
+    "diameter": 1.2,
+    "drill": 0.6,
+    "purpose": "Q2 power/thermal layer transfer",
+    "group": "Q2"
+  }
+]

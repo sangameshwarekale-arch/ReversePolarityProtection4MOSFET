@@ -1,0 +1,337 @@
+{
+  "source_sha256": "7e6f727a33c201fb72aaaaa1594ccaabde2608f28698f632ac196adcf04269a4",
+  "local_connections": [
+    {
+      "from": "R1.2",
+      "to": "Q1.1",
+      "center_distance_mm": 2.190895935456539,
+      "edge_distance_mm": 0.8606310520245946
+    },
+    {
+      "from": "R3.2",
+      "to": "Q2.1",
+      "center_distance_mm": 2.8853119415411523,
+      "edge_distance_mm": 1.704999999999984
+    },
+    {
+      "from": "R5.2",
+      "to": "Q3.4",
+      "center_distance_mm": 2.2777730352254144,
+      "edge_distance_mm": 1.1688921483395922
+    },
+    {
+      "from": "R7.2",
+      "to": "Q4.4",
+      "center_distance_mm": 1.8963451690027326,
+      "edge_distance_mm": 1.0649999999999977
+    },
+    {
+      "from": "C1.1",
+      "to": "U2.5",
+      "center_distance_mm": 3.6771252358330253,
+      "edge_distance_mm": 2.9750000000000085
+    },
+    {
+      "from": "C1.2",
+      "to": "U2.2",
+      "center_distance_mm": 2.5487742151865804,
+      "edge_distance_mm": 1.699494410111427
+    },
+    {
+      "from": "C2.1",
+      "to": "U2.4",
+      "center_distance_mm": 2.252359873554839,
+      "edge_distance_mm": 1.27500000000002
+    },
+    {
+      "from": "C2.2",
+      "to": "U2.5",
+      "center_distance_mm": 2.252359873554839,
+      "edge_distance_mm": 1.27500000000002
+    },
+    {
+      "from": "C3.1",
+      "to": "U1.6",
+      "center_distance_mm": 1.6946164757844155,
+      "edge_distance_mm": 0.9749999999999943
+    },
+    {
+      "from": "C3.2",
+      "to": "U1.5",
+      "center_distance_mm": 1.859226989907359,
+      "edge_distance_mm": 1.0512907308109165
+    },
+    {
+      "from": "R14.2",
+      "to": "U1.1",
+      "center_distance_mm": 5.312882927375685,
+      "edge_distance_mm": 4.594999999999985
+    },
+    {
+      "from": "R14.1",
+      "to": "Q4.3",
+      "center_distance_mm": 4.822045727696912,
+      "edge_distance_mm": 3.93982867647821
+    }
+  ],
+  "source_bands": {
+    "Q1": {
+      "source_copper_bounds_mm": [
+        133.12,
+        80.75,
+        134.52,
+        85.94999999999999
+      ],
+      "vertical_span_mm": 5.199999999999989
+    },
+    "Q2": {
+      "source_copper_bounds_mm": [
+        133.12,
+        90.2,
+        134.52,
+        95.39999999999999
+      ],
+      "vertical_span_mm": 5.199999999999989
+    },
+    "Q3": {
+      "source_copper_bounds_mm": [
+        122.395,
+        83.81,
+        123.545,
+        87.06
+      ],
+      "vertical_span_mm": 3.25
+    },
+    "Q4": {
+      "source_copper_bounds_mm": [
+        122.39500000000002,
+        94.51,
+        123.545,
+        97.76
+      ],
+      "vertical_span_mm": 3.25
+    }
+  },
+  "corridors": {
+    "VOUT_inner_layer": {
+      "clearance_basis_mm": 0.25,
+      "maximum_rectangle_y_mm": [
+        91.540094,
+        99.290031
+      ],
+      "maximum_vertical_span_mm": 7.749937000000003,
+      "chosen_reservation_rect_mm": [
+        118.0,
+        91.6,
+        143.1,
+        99.2
+      ],
+      "chosen_vertical_span_mm": 7.6,
+      "note": "Footprints are front mounted. Inner plane may pass below their SMD lands. Future through-via anti-pads, control routes and the selected stackup can reduce this."
+    },
+    "MID_front_branches": {
+      "to_Q3_vertical_source_span_mm": 3.25,
+      "to_Q4_vertical_source_span_mm": 3.25,
+      "facing_source_to_front_drain_main_pad_edge_gap_mm": 3.9350000000000023,
+      "courtyard_gap_between_bank_columns_mm": 1.6749999999999972,
+      "note": "Local copper can expand beyond source fingers, but each branch must taper to its three source lands. These spans do not establish ampacity."
+    },
+    "VIN_front_rail": {
+      "Q1_three_source_vertical_span_mm": 5.199999999999989,
+      "Q2_three_source_vertical_span_mm": 5.199999999999989,
+      "Q1_top_source_to_edge_projected_room_mm": 3.2130041729896277,
+      "note": "Projected room is a geometric screen using0.5mm horizontal edge setback. Upper VIN rail must taper with the outline; inner copper participation and pin current distribution require routing analysis."
+    },
+    "connector_row_between_J1_J3": {
+      "raw_pad_edge_gap_mm": 1.0,
+      "width_after_two_0p25_clearances_mm": 0.5,
+      "note": "Do not route the full MID bank transfer through this slot."
+    }
+  },
+  "via_space": {
+    "hypothetical_geometry_only": true,
+    "not_ampacity_or_count_recommendation": true,
+    "diameter_mm": 0.6,
+    "drill_mm": 0.3,
+    "pitch_mm": 1.0,
+    "LFPAK88_main_drain_land": {
+      "land_size_mm": [
+        3.74,
+        6.8
+      ],
+      "example_grid": [
+        3,
+        6
+      ],
+      "grid_envelope_mm": [
+        2.6,
+        5.6
+      ]
+    },
+    "LFPAK56E_main_drain_land": {
+      "land_size_mm": [
+        3.3,
+        4.2
+      ],
+      "example_grid": [
+        3,
+        4
+      ],
+      "grid_envelope_mm": [
+        2.6,
+        3.6
+      ]
+    },
+    "MID_bridge_example": {
+      "example_grid": [
+        3,
+        2
+      ],
+      "grid_envelope_mm": [
+        2.6,
+        1.6
+      ]
+    },
+    "limitations": [
+      "Arrays in solder lands require a qualified filled/capped via-in-pad process or a deliberate alternative placement outside lands.",
+      "Diameter/drill annular ring0.15mm is not evidence of a selected fabricator approval; choose approved via rules.",
+      "Continuous inner layers need anti-pads around different-net through vias. Vias can create narrow plane slots.",
+      "Counts shown only demonstrate geometric room. Calculate transfer resistance/temperature/current sharing using actual board thickness and plating, then qualify thermally."
+    ]
+  },
+  "fixed_annular_rings": [
+    {
+      "reference": "TP8",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "TP5",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "TP1",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "TP9",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J3",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J3",
+      "pad": "2",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J3",
+      "pad": "3",
+      "radial_annular_mm": 0.24998750000000003
+    },
+    {
+      "reference": "J3",
+      "pad": "4",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "TP7",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J2",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J2",
+      "pad": "2",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J2",
+      "pad": "3",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J2",
+      "pad": "4",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "TP3",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "TP2",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "TP4",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J1",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J1",
+      "pad": "2",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J1",
+      "pad": "3",
+      "radial_annular_mm": 0.24998750000000003
+    },
+    {
+      "reference": "J1",
+      "pad": "4",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J1",
+      "pad": "5",
+      "radial_annular_mm": 0.24998750000000003
+    },
+    {
+      "reference": "J1",
+      "pad": "6",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "J1",
+      "pad": "7",
+      "radial_annular_mm": 0.25
+    },
+    {
+      "reference": "TP6",
+      "pad": "1",
+      "radial_annular_mm": 0.25
+    }
+  ],
+  "root_pending_NCV_EPad_correction": {
+    "initial_ep_mm": [
+      0.9,
+      1.6
+    ],
+    "root_verified_recommended_ep_mm": [
+      0.95,
+      1.65
+    ],
+    "intrinsic_side_to_ep_copper_gap_after_correction_mm": 0.195,
+    "courtyard_unchanged": true,
+    "note": "Root reports official onsemi511DW recommended rotated land drawing checked. Source geometry in this study is the initial file; a corrected footprint requires new source hash and native DRC/fabricator review."
+  }
+}

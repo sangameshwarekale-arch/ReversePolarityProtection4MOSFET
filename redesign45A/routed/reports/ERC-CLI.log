@@ -1,0 +1,13 @@
+16:03:26: Error: can't open file 'C:\Users\sanga\AppData\Local\KiCad\9.0\sentry-uid' (error 5: Access is denied.)
+16:03:26: Error: can't open file 'C:\Users\sanga\AppData\Local\KiCad\9.0\sentry-uid' (error 5: Access is denied.)
+16:03:26: Error: Can't create registry key 'HKCU\Software\kicad-cli' (error 5: Access is denied.)
+16:03:26: Error: Can't open registry key 'HKCU\Software\kicad-cli' (error 2: The system cannot find the file specified.)
+16:03:26: Error: Cannot enumerate files in directory 'C:\Users\sanga\AppData\Roaming\kicad\9.0\colors' (error 5: Access is denied.)
+16:03:26: Error: Cannot enumerate files in directory 'C:\Users\sanga\AppData\Roaming\kicad\9.0\colors' (error 5: Access is denied.)
+16:03:26: Error: can't open file 'C:\Users\sanga\AppData\Roaming\kicad\9.0\kicad_common.json' (error 5: Access is denied.)
+16:03:26: Error: can't open file 'C:\Users\sanga\AppData\Roaming\kicad\9.0\kicad.json' (error 5: Access is denied.)
+16:03:26: Error: can't open file 'C:\Users\sanga\AppData\Roaming\kicad\9.0\symbol_editor.json' (error 5: Access is denied.)
+16:03:26: Error: can't open file 'C:\Users\sanga\AppData\Roaming\kicad\9.0\eeschema.json' (error 5: Access is denied.)
+16:03:27: Error: can't open file 'C:\Users\sanga\AppData\Roaming\kicad\9.0\cvpcb.json' (error 5: Access is denied.)
+Found 0 violations
+Saved ERC Report to C:\Users\sanga\Documents\Codex\2026-10-14\act-as-a-senior-power-electronics\work\redesign45\routing_power\ERC.json

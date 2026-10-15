@@ -1,0 +1,65 @@
+{
+  "status": "PRELIMINARY 4-LAYER PLACEMENT; UNROUTED; NOT QUALIFIED AT 60A",
+  "board_file": "C:\\Users\\sanga\\Documents\\Codex\\2026-10-14\\act-as-a-senior-power-electronics\\outputs\\ReversePolarityProtection4MOSFET\\ReversePolarityProtection4MOSFET.kicad_pcb",
+  "before_sha256": {
+    "ReversePolarityProtection4MOSFET.kicad_pcb": "7e6f727a33c201fb72aaaaa1594ccaabde2608f28698f632ac196adcf04269a4",
+    "ReversePolarityProtection4MOSFET.kicad_pro": "34161d4dbdb986bfc935f364ea83f0bbfe58fcd5556360ef5b775b16041a8aa3",
+    "NCV68261_WDFNW6.kicad_mod": "8bf766580979caac9564d83fe84eb4adb64ace7a34f3240eee199cd7a72d51ad"
+  },
+  "after_board_sha256": "291e8b6199c2fc2242c567669cc0f1837f2036e35f740affb53d9157cf03d2e6",
+  "physical_stackup_approved": false,
+  "copper_layer_count": 4,
+  "tracks": 0,
+  "vias": 0,
+  "zones": 0,
+  "footprints": 36,
+  "outline_primitives": 60,
+  "outline_exactly_preserved": true,
+  "fixed_footprint_and_pad_geometry_exactly_preserved": true,
+  "fixed_footprint_count": 12,
+  "net_assignments_and_schematic_links_preserved": true,
+  "placed_front_refs": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "U1",
+    "U2",
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "D1",
+    "D2",
+    "D3",
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6",
+    "R7",
+    "R8",
+    "R13",
+    "R14"
+  ],
+  "NCV_EP_mm": [
+    0.95,
+    1.65
+  ],
+  "NCV_EP_shape": "rect",
+  "NCV_intrinsic_side_EP_gap_mm": 0.195,
+  "NCV_proposed_paste_windows_mm": [
+    0.8,
+    0.7
+  ],
+  "paste_window_y_offsets_mm": [
+    -0.42,
+    0.42
+  ],
+  "NCV_proposed_EP_paste_coverage_percent": 71.45135566188198,
+  "minimum_clearance_screen_mm": 0.2,
+  "fab_mask_and_stencil_approval_pending": true,
+  "angle_comparison": "modulo360; KiCad normalizes270deg as-90deg"
+}

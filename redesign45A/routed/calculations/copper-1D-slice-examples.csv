@@ -1,0 +1,4 @@
+section,temperature_C_assumed,current_A_assumed,optimistic_1D_slice_R_mohm,drop_mV,loss_W,method
+VOUT transverse,80,45,0.32562942813991685,14.65332426629626,0.6593995919833316,"rho*integral(dx/sum(t*w(x))); ignores 2D detours, contact spreading and unequal current sharing; not a bound or ampacity"
+VOUT upper-bank neck,80,22.5,0.15535699278024612,3.495532337555537,0.07864947759499959,"rho*integral(dx/sum(t*w(x))); ignores 2D detours, contact spreading and unequal current sharing; not a bound or ampacity"
+VOUT terminal neck,80,45,0.049717443224548484,2.237284945104682,0.10067782252971068,"rho*integral(dx/sum(t*w(x))); ignores 2D detours, contact spreading and unequal current sharing; not a bound or ampacity"

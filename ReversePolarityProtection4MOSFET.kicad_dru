@@ -1,0 +1,8 @@
+(version 1)
+# NCV68261 511DW recommended EP-to-side land gap is 0.195mm.
+# JLCPCB published multilayer 2oz copper etching minimum is 0.15mm.
+# Restrict this engineering-screen rule to intrinsic U1 pad-to-EP pairs.
+# This is not mask/stencil/insulation or fabricated-board acceptance.
+(rule "NCV68261 intrinsic recommended EP land spacing"
+ (condition "A.Type == 'Pad' && B.Type == 'Pad' && A.memberOfFootprint('U1') && B.memberOfFootprint('U1') && (A.Pad_Number == '7' || B.Pad_Number == '7')")
+ (constraint clearance (min 0.19mm)))

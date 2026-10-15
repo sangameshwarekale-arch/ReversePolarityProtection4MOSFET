@@ -1,0 +1,13 @@
+﻿case,front_count,downstream_count,front_current_each_A,downstream_current_each_A,total_R_milliohm,drop_mV,MOSFET_loss_W,front_loss_each_W,downstream_loss_each_W,conditions
+25 C specified resistance,2,4,22.5,11.25,1.2,53.99999999999999,2.4299999999999997,0.6074999999999999,0.30374999999999996,Front at 25 C / 10 V gate; downstream at 25 C / 4.5 V gate
+25 C specified resistance,2,2,22.5,22.5,1.8,81.0,3.645,0.6074999999999999,1.2149999999999999,Front at 25 C / 10 V gate; downstream at 25 C / 4.5 V gate
+25 C specified resistance,1,3,45.0,15.0,2.0,90.0,4.05,2.4299999999999997,0.5399999999999999,Front at 25 C / 10 V gate; downstream at 25 C / 4.5 V gate
+25 C specified resistance,3,1,15.0,45.0,2.7999999999999994,125.99999999999997,5.669999999999999,0.26999999999999996,4.859999999999999,Front at 25 C / 10 V gate; downstream at 25 C / 4.5 V gate
+105 C / 150 C benchmark,2,4,22.5,11.25,2.3249999999999997,104.625,4.708125,1.11375,0.62015625,Front at 105 C / 10 V gate; downstream at 150 C / 4.5 V gate
+105 C / 150 C benchmark,2,2,22.5,22.5,3.5500000000000003,159.75,7.188750000000001,1.11375,2.480625,Front at 105 C / 10 V gate; downstream at 150 C / 4.5 V gate
+105 C / 150 C benchmark,1,3,45.0,15.0,3.8333333333333335,172.50000000000003,7.7625,4.455,1.1025,Front at 105 C / 10 V gate; downstream at 150 C / 4.5 V gate
+105 C / 150 C benchmark,3,1,15.0,45.0,5.633333333333333,253.5,11.407499999999999,0.49500000000000005,9.9225,Front at 105 C / 10 V gate; downstream at 150 C / 4.5 V gate
+175 C / 150 C screening,2,4,22.5,11.25,2.6249999999999996,118.125,5.315625,1.4175,0.62015625,Front at 175 C / 10 V gate; downstream at 150 C / 4.5 V gate
+175 C / 150 C screening,2,2,22.5,22.5,3.85,173.25000000000003,7.796250000000001,1.4175,2.480625,Front at 175 C / 10 V gate; downstream at 150 C / 4.5 V gate
+175 C / 150 C screening,1,3,45.0,15.0,4.433333333333334,199.5,8.977500000000001,5.67,1.1025,Front at 175 C / 10 V gate; downstream at 150 C / 4.5 V gate
+175 C / 150 C screening,3,1,15.0,45.0,5.833333333333333,262.49999999999994,11.812499999999998,0.63,9.9225,Front at 175 C / 10 V gate; downstream at 150 C / 4.5 V gate

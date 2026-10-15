@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-15",
+  "kicad_version": "9.0.7",
+  "MOSFET_count": 4,
+  "physical_component_count": 36,
+  "schematic_erc_errors": 0,
+  "schematic_erc_warnings": 0,
+  "independent_expected_pin_net_checks": 42,
+  "four_individual_gate_and_bleed_networks_verified": true,
+  "series_sense_resistor_net_verified": true,
+  "schematic_parity_issues": 0,
+  "drc_unconnected_items": 66,
+  "drc_other_violations": 2,
+  "DXF_matching_drilled_pad_centres": 24,
+  "DXF_max_pad_centre_error_mm": 8.780797173812971e-07,
+  "production_or_45A_validation": false,
+  "balance_protection_implemented": false
+}

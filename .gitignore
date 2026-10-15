@@ -1,0 +1,12 @@
+# KiCad temporary files and personal editor settings
+*.lck
+*.kicad_prl
+fp-info-cache
+*-backups/
+_autosave-*
+*.bak
+*.tmp
+
+# Windows files
+Thumbs.db
+Desktop.ini

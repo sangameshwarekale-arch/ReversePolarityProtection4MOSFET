@@ -1,0 +1,283 @@
+{
+  "status": "READ-ONLY TWO-SIDED 45 A PLACEMENT CANDIDATE; NOT ROUTED OR RATED",
+  "coordinates": "Absolute KiCad mm; angle_deg is final native orientation after Flip(LEFT_RIGHT) to required side. B-side coordinates remain in board top-view coordinates.",
+  "positions": [
+    {
+      "ref": "Q1",
+      "at_mm": [
+        130,
+        84.7
+      ],
+      "angle_deg": 180,
+      "side": "front"
+    },
+    {
+      "ref": "Q2",
+      "at_mm": [
+        130,
+        94.3
+      ],
+      "angle_deg": 180,
+      "side": "front"
+    },
+    {
+      "ref": "Q3",
+      "at_mm": [
+        120.3,
+        85.3
+      ],
+      "angle_deg": 180,
+      "side": "front"
+    },
+    {
+      "ref": "Q4",
+      "at_mm": [
+        120.3,
+        95.5
+      ],
+      "angle_deg": 180,
+      "side": "front"
+    },
+    {
+      "ref": "D1",
+      "at_mm": [
+        112.8,
+        94.5
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "R13",
+      "at_mm": [
+        127,
+        105.0
+      ],
+      "angle_deg": 0,
+      "side": "front"
+    },
+    {
+      "ref": "U1",
+      "at_mm": [
+        123.8,
+        89.7
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "C3",
+      "at_mm": [
+        120.6,
+        89.375
+      ],
+      "angle_deg": 270,
+      "side": "back"
+    },
+    {
+      "ref": "C4",
+      "at_mm": [
+        119.9,
+        93.0
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "R5",
+      "at_mm": [
+        124.5,
+        83.39
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "R6",
+      "at_mm": [
+        124.5,
+        85.6
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "R7",
+      "at_mm": [
+        124.5,
+        93.8
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "R8",
+      "at_mm": [
+        124.5,
+        96.0
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "R14",
+      "at_mm": [
+        128.0,
+        87.25
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "D3",
+      "at_mm": [
+        128.1,
+        89.7
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "C5",
+      "at_mm": [
+        128.0,
+        92.4
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "U2",
+      "at_mm": [
+        137.1,
+        93.5
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "C1",
+      "at_mm": [
+        140.4,
+        93.5
+      ],
+      "angle_deg": 90,
+      "side": "back"
+    },
+    {
+      "ref": "C2",
+      "at_mm": [
+        137.1,
+        97.0
+      ],
+      "angle_deg": 180,
+      "side": "back"
+    },
+    {
+      "ref": "R1",
+      "at_mm": [
+        132.7,
+        87.7
+      ],
+      "angle_deg": 0,
+      "side": "back"
+    },
+    {
+      "ref": "R2",
+      "at_mm": [
+        132.7,
+        85.5
+      ],
+      "angle_deg": 0,
+      "side": "back"
+    },
+    {
+      "ref": "R3",
+      "at_mm": [
+        132.7,
+        97.3
+      ],
+      "angle_deg": 0,
+      "side": "back"
+    },
+    {
+      "ref": "R4",
+      "at_mm": [
+        132.7,
+        95.1
+      ],
+      "angle_deg": 0,
+      "side": "back"
+    },
+    {
+      "ref": "D2",
+      "at_mm": [
+        132.6,
+        91.4
+      ],
+      "angle_deg": 90,
+      "side": "back"
+    }
+  ],
+  "new_terminals": [
+    {
+      "ref": "J4",
+      "value": "VOUT POWER OUTPUT",
+      "net": "/VOUT",
+      "mpn": "7466205R",
+      "at_mm": [
+        137.975,
+        107.525
+      ],
+      "angle_deg": 0,
+      "side": "front",
+      "body_diameter_mm": 9,
+      "nominal_height_mm": 7,
+      "pad_diameter_mm": 10,
+      "courtyard_diameter_mm": 11,
+      "hypothetical_tool_diameter_mm": 12
+    },
+    {
+      "ref": "J5",
+      "value": "GND POWER OUTPUT",
+      "net": "/GND",
+      "mpn": "7466205R",
+      "at_mm": [
+        115.475,
+        107.525
+      ],
+      "angle_deg": 0,
+      "side": "front",
+      "body_diameter_mm": 9,
+      "nominal_height_mm": 7,
+      "pad_diameter_mm": 10,
+      "courtyard_diameter_mm": 11,
+      "hypothetical_tool_diameter_mm": 12
+    }
+  ],
+  "source_sha256": "291e8b6199c2fc2242c567669cc0f1837f2036e35f740affb53d9157cf03d2e6",
+  "frozen": true,
+  "native_flip_contract": "For each existing footprint: if its current copper side differs, call f.Flip(f.GetPosition(),pcbnew.FLIP_DIRECTION_LEFT_RIGHT); then SetOrientationDegrees(angle_deg), then SetPosition(at_mm). Stored angles are final native KiCad angles, not component-side visual rotations.",
+  "routing_approval_required": true,
+  "new_terminal_paste_status": "NO F.Paste apertures authorized by this geometry study; reconstruct manufacturer stencil after independent visual check.",
+  "bottom_refs": [
+    "U1",
+    "C3",
+    "C4",
+    "R5",
+    "R6",
+    "R7",
+    "R8",
+    "R14",
+    "D3",
+    "C5",
+    "U2",
+    "C1",
+    "C2",
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "D2"
+  ]
+}

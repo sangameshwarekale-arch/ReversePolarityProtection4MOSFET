@@ -1,0 +1,160 @@
+# PCB Redesign Instructions — 24 V, 45 A Balance Connector Reverse-Polarity Protection
+
+Redesign the existing KiCad PCB layout for the reverse-polarity protection circuit. The current layout has severe component congestion in the center, limited routing space, excessive component crowding, and underutilized space in the lower portion of the PCB.
+
+The objective is to produce a manufacturable, thermally sound, easily routable PCB that meets all electrical and mechanical requirements.
+
+## 1. Preserve Existing Design Constraints
+
+- Preserve the existing schematic, component values, electrical connections, and protection functionality.
+- Maintain the existing PCB outline and connector positions as far as possible.
+- Do not delete components, modify electrical connections, or substitute components without documenting and justifying the changes.
+- Inspect the actual PCB dimensions, footprints, net assignments, layer stack-up, copper thickness, and manufacturing constraints before making changes.
+- If any requirement conflicts with the existing design, document the conflict instead of silently compromising electrical safety.
+
+## 2. Redesign Component Placement Before Routing
+
+The current component arrangement is too congested. Do not immediately begin routing the existing placement.
+
+First, analyze and optimize the placement of every component.
+
+- Increase spacing between crowded components wherever electrical and mechanical constraints permit.
+- Separate the power stage, gate-drive circuitry, protection components, and low-current signal circuitry into logical functional groups.
+- Keep gate resistors and other gate-drive components close to their corresponding MOSFET gates.
+- Minimize critical high-current loop area and avoid unnecessary power-path length.
+- Prevent component courtyard overlaps and ensure that all components remain accessible for assembly, inspection, and rework.
+- Avoid placing small passive components in inaccessible gaps between large power components.
+- Check connector insertion direction, screw access, wire clearance, and mechanical interference.
+
+## 3. Use Both PCB Sides for Component Placement
+
+Use the top and bottom copper layers for routing and place suitable components on both sides of the PCB.
+
+Do not keep every component on the top side merely because that is how the existing layout was created.
+
+Prioritize the following placement strategy:
+
+1. Keep the main high-current components, including the MOSFETs and main power connections, on the side that provides the shortest, widest, and safest current path.
+2. Evaluate moving suitable gate resistors, signal resistors, small protection components, and other low-current supporting components to the bottom side.
+3. Use the currently unused lower region of the board to spread out components and reduce congestion.
+4. Consider bottom-side placement of additional components only after checking their electrical connections, thermal behavior, soldering accessibility, and mechanical clearance.
+5. Do not move a component to the bottom side if doing so compromises the power path, gate-drive loop, thermal design, or manufacturability.
+
+Generate a placement comparison showing the original layout and the proposed two-sided layout before final routing.
+
+## 4. Utilize the Lower Unused PCB Area
+
+The existing lower section of the PCB is underutilized.
+
+- Redistribute suitable components into this region to reduce central congestion.
+- Preserve required mechanical clearances and the existing board outline.
+- Use the lower area to create cleaner routing channels and improve component separation.
+- Avoid concentrating all components around the central MOSFETs.
+- Do not fill unused space with components or copper merely to make the board look occupied.
+
+## 5. Add VOUT and GND Output Connectors
+
+Add clearly identified output connections for VOUT and GND.
+
+- Select appropriate connector footprints based on the intended output current, voltage, wire gauge, mounting method, and available space.
+- If the output connector must carry the full 45 A discharge current, select a connector and footprint rated for that current under the actual operating and thermal conditions.
+- If the connections are intended only for measurement or testing, label them accordingly and do not treat them as full-current power outputs.
+- Connect each connector to the correct electrical net.
+- Verify polarity and connectivity against the schematic.
+- Provide clear silkscreen labels such as VOUT and GND, without overlapping pads, solder-mask openings, or other components.
+- Position the connectors for convenient access and safe wire attachment.
+
+Do not assume that a connector's advertised current rating automatically guarantees 45 A capability on the assembled PCB.
+
+## 6. High-Current Routing and Copper Zones
+
+The PCB must support 24 V nominal operation, 25.2 V maximum fully charged battery voltage, and up to 45 A discharge current.
+
+- Identify the complete high-current path from input to protected output.
+- Calculate the required copper track width using actual copper thickness, allowable temperature rise, external or internal layer location, and expected operating conditions.
+- Use appropriately assigned copper zones on both sides wherever beneficial.
+- Prefer broad, continuous copper regions for high-current nets when clearances, connectivity, and thermal requirements permit.
+- Configure the correct net and net class for each zone.
+- Use thermal reliefs or solid connections according to current-carrying and solderability requirements.
+- Eliminate narrow copper neck-downs, isolated copper islands, unnecessary routing detours, and accidental bottlenecks.
+- Use vias only where required and calculate the number, dimensions, plating assumptions, and current-carrying capacity of the vias used in the power path.
+- Do not assume that multiple vias or large copper pours are sufficient without electrical and thermal verification.
+- Avoid creating unintended connections between GND, VOUT, battery positive, battery negative, and other power nets.
+- Verify copper-zone connectivity after every major placement or routing change.
+
+Do not prioritize the number of copper zones over the quality of the electrical design. The objective is continuous, low-resistance copper and safe current distribution.
+
+## 7. Thermal and Electrical Calculations
+
+Use Saturn PCB Toolkit, which is installed on this computer, wherever applicable to calculate and document:
+
+- Copper track width and resistance.
+- Copper thickness and allowable temperature rise.
+- Current density and estimated voltage drop.
+- Copper conduction losses.
+- Via dimensions, resistance, and estimated current capacity.
+- MOSFET conduction losses based on the selected device's actual RDS(on), operating temperature, and current distribution.
+- MOSFET power dissipation and thermal requirements.
+- Copper spreading area and thermal considerations.
+- Connector and terminal current requirements.
+- Voltage margin for battery transients and switching events.
+- Gate-source voltage limits and gate-drive requirements.
+- Reverse-polarity protection behavior and potential failure modes.
+
+Use the actual component datasheets and clearly document all assumptions. Do not invent calculation results or claim that Saturn PCB Toolkit verifies parameters that it does not calculate.
+
+Where a parameter cannot be calculated by Saturn PCB Toolkit, use a suitable engineering calculation and document the method.
+
+## 8. Routing Strategy
+
+After placement has been approved:
+
+1. Route critical power connections first.
+2. Prioritize the shortest practical high-current path.
+3. Use wide copper tracks and zones as appropriate.
+4. Route gate-drive connections with short loops and suitable separation from noisy power paths.
+5. Route low-current signals around the power stage without introducing unnecessary crossings.
+6. Use both copper layers to reduce congestion.
+7. Avoid unnecessary vias, but do not sacrifice electrical safety merely to reduce via count.
+8. Refill all copper zones and verify connectivity after routing.
+9. Run the KiCad electrical rules and design rules checks.
+10. Resolve all unintended unconnected nets, shorts, clearance violations, and copper-zone errors.
+
+## 9. Manufacturing and Assembly Verification
+
+Verify:
+
+- Component courtyard and physical clearance.
+- Top- and bottom-side component accessibility.
+- Connector and wire clearance.
+- Copper-to-edge clearance.
+- Solder-mask and silkscreen correctness.
+- Via and track manufacturing limits.
+- Copper thickness and PCB layer stack-up.
+- Thermal reliefs and solderability of large copper-connected pads.
+- Bottom-side assembly feasibility and associated manufacturing cost.
+
+## 10. Required Deliverables
+
+Save the work in the existing project directory, keeping a backup of the original design.
+
+Produce:
+
+1. An optimized two-sided component placement.
+2. A fully routed PCB with top and bottom copper layers used appropriately.
+3. Updated copper zones for the relevant power nets.
+4. Added VOUT and GND connectors with verified net assignments.
+5. A comparison image of the original and redesigned layouts.
+6. A list of components moved to the bottom side.
+7. A documented list of all changes and any unresolved design limitations.
+8. A calculation report containing all applicable Saturn PCB Toolkit results and additional engineering calculations.
+9. A KiCad DRC report and connectivity verification results.
+10. Manufacturing outputs only after the design has passed the required checks.
+
+Save the project, calculation results, reports, and images in clearly named folders within the existing project directory.
+
+## Final Acceptance Criteria
+
+The redesigned PCB must be easier to route, use the lower unused board area more effectively, support components on both sides, include the required VOUT and GND connections, preserve the intended protection functionality, and satisfy the documented electrical, thermal, mechanical, and manufacturing requirements.
+
+Do not claim the design is complete or safe for 45 A operation until the relevant calculations, component ratings, connectivity checks, and manufacturing checks have been verified.

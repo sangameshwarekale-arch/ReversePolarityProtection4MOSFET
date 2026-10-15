@@ -1,0 +1,13 @@
+﻿references,mpn,max_height_mm,evidence,status,nominal_height_mm
+U1,NCV68261MTWAITBG,0.8,"Cached official 511DW Issue B drawing, dimension A; visually re-read 2026-10-15.",VERIFIED PACKAGE MAXIMUM; NOT ASSEMBLED ENVELOPE,
+U2,LM74500QDDFRQ1,1.1,Cached TI DDF0008A drawing in local lm74500-q1.pdf / lm74500-ddf.png.,VERIFIED PACKAGE MAXIMUM; NOT ASSEMBLED ENVELOPE,
+"C1,C3",GRM188R72A104KA35D,0.9,Previously retrieved official Murata 0.8 +/-0.1 mm thickness.,PRIOR VERIFIED DIMENSION; NOT RE-DOWNLOADED,
+"C2,C4",GCM21BR71H105KA03L,1.4,Previously retrieved official Murata 1.25 +/-0.15 mm thickness.,PRIOR VERIFIED DIMENSION; NOT RE-DOWNLOADED,
+"Q1,Q2",PSMN1R3-80SSFJ,,SOT1235 8x8x1.6 mm package-family description previously retrieved; no maximum-height drawing retained in this audit.,MAXIMUM NOT REVERIFIED; DO NOT USE 1.6 AS MAXIMUM,
+"Q3,Q4",PSMN2R0-55YLHX,,SOT1023 package and land geometry previously audited; maximum height not reverified from retained drawing here.,MAXIMUM NOT REVERIFIED,
+D1,"PMEG6030EP,115",,SOD128 footprint audited previously; no maximum-height drawing retained here.,MAXIMUM NOT REVERIFIED,
+"R1,R2,R3,R4,R5,R6,R7,R8,R14",RC0603FR-0710RL / RC0603FR-071ML,0.55,Placement agent official per-part source review: T0.45 +/-0.10mm. https://yageogroup.com/component-documentation/download/specsheet/RC0603FR-0710RL and https://yageogroup.com/component-documentation/download/specsheet/RC0603FR-071ML,VERIFIED BY PARALLEL OFFICIAL-SOURCE REVIEW; NOT ASSEMBLED ENVELOPE,
+R13,"RC0805FR-0710KL listed BOM, confirm final part",,No part-specific thickness/power/derating table verified by this audit.,MAXIMUM HEIGHT AND POWER DERATING NOT VERIFIED,
+"C5,D2,D3",BOM optional DNP components,,DNP in current population; future population requires actual body and solder-height envelope.,DNP; NO CURRENT POPULATED BODY,
+"J1,J2,J3,TP1..TP9",Original terminations unknown,,"Copper geometry is not a connector body, mating or wire-bend envelope.",MECHANICAL HEIGHT / WIRE / MATE UNKNOWN,
+"J4,J5 proposed",Wurth 7466205R M5 SMT blind-thread candidate,,"Parallel terminal research: official drawing 7 mm nominal; general DIN ISO 2768-1m tolerances. Bare body diameter 9 mm; land diameter10 mm. Lug, screw and tool envelope additional.",NOMINAL VERIFIED BY PARALLEL SOURCE REVIEW; MAXIMUM ASSEMBLED ENVELOPE PENDING,7.0
